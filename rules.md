@@ -10,8 +10,9 @@ June 3rd, 2017.
 1. I will tweet about my progress every day -> using the hashtag (#100DaysOfCode)[https://twitter.com/homemadecoder] (made a new account just for this :D)
 2. I will push code to (GitHub)[https://github.com/hanapotski/100-days-of-code] every day so that anyone can see my progress.
 3. I will update the (Log)[log.md] with the day's progress and provide a link so that others can see my progress.
-4. I will work on real projects, facing real challenges.
-  (I have been learning about HTML and CSS for a couple of months now and a little bit about JavaScript, PHP, LESS, SASS, command-line) but I don't know how much I really know. So I decided to join this challenge to test myself and to see and apply what I already know and what I still have to work on) 
+4. I will work on real projects, facing real challenges. I've created a new repository for my projects here -> https://github.com/hanapotski/myprojects 
+
+  (I have been learning about HTML and CSS for a couple of months now and a little bit about JavaScript, PHP, LESS, SASS, command-line) but I don't know how much I really know. So I decided to join this challenge to test myself and to see and apply what I already know and what I still have to work on)
 
 
 ## Ideas to make this challenge more effective
