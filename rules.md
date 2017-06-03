@@ -7,10 +7,10 @@
 June 3rd, 2017.
 
 ## Additional Rules
-1. I will tweet about my progress every day -> using the hashtag (#100DaysOfCode)[https://twitter.com/homemadecoder]
+1. I will tweet about my progress every day -> using the hashtag (#100DaysOfCode)[https://twitter.com/homemadecoder] (made a new account just for this :D)
 2. I will push code to (GitHub)[https://github.com/hanapotski/100-days-of-code] every day so that anyone can see my progress.
 3. I will update the (Log)[log.md] with the day's progress and provide a link so that others can see my progress.
-4. I will work on real projects, facing real challenges. 
+4. I will work on real projects, facing real challenges.
 
 
 ## Ideas to make this challenge more effective
