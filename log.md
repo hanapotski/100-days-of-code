@@ -4,7 +4,7 @@
 
 **Today's Progress**: Forked the 100-days-of-code repo and personalized it. Made another repo for my projects. Also made an account on twitter, instagram and wordpress for this project.
 
-**Thoughts:** I'll use [Jennifer Dewalt's projects](https://jenniferdewalt.com/) for inspiration.
+**Thoughts:** I'll use [Jennifer Dewalt's projects](https://jenniferdewalt.com/) for inspiration. But for my main project, I will make my own portfolio website.
 
 **Link to work:**
 1. [Github](https://github.com/hanapotski/100-days-of-code)
