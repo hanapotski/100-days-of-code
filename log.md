@@ -15,9 +15,9 @@
 
 ### Day 1: June 4, 2017
 
-**Today's Progress**: Made a personal portfolio website from a bootstrap template. Uploaded it on Github and turned it into gh-pages. Learned how to edit and compile less file to css.
+**Today's Progress**: Made a personal portfolio website from a bootstrap template. Uploaded it on Github and turned it into gh-pages. Learned how to edit and compile less file to css. Finished HTML5 and CSS at FCC.
 
-**Thoughts:** Someday I'll make my own portfolio website without using a template. 
+**Thoughts:** Someday I'll make my own portfolio website without using a template.
 
 **Link to work:**
 1. [HannahZulueta](https://hanapotski.github.io/hannahzulueta/)
