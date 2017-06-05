@@ -12,3 +12,13 @@
 3. [Twitter](https://twitter.com/homemadecoder)
 4. [Instagram](https://www.instagram.com/homemadecoder/)
 5. [Wordpress](https://homemadecoder.wordpress.com/)
+
+### Day 1: June 4, 2017
+
+**Today's Progress**: Made a personal portfolio website from a bootstrap template. Uploaded it on Github and turned it into gh-pages. Learned how to edit and compile less file to css.
+
+**Thoughts:** Someday I'll make my own portfolio website without using a template. 
+
+**Link to work:**
+1. [HannahZulueta](https://hanapotski.github.io/hannahzulueta/)
+2. [Github](https://github.com/hanapotski/hannahzulueta)
