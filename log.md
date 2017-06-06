@@ -22,3 +22,15 @@
 **Link to work:**
 1. [HannahZulueta](https://hanapotski.github.io/hannahzulueta/)
 2. [Github](https://github.com/hanapotski/hannahzulueta)
+3. [Wordpress](https://homemadecoder.wordpress.com/2017/06/06/day-1/)
+
+### Day 2: June 5, 2017
+
+**Today's Progress**: Made a page where my projects will live
+
+**Thoughts:** Wonderwoman is awesome.(we saw the movie this morning. she's so cool xD)
+
+**Link to work:**
+1. [My Projects' Homepage](https://hanapotski.github.io/myprojects/)
+2. [Github](https://github.com/hanapotski/myprojects)
+3. [Wordpress](https://homemadecoder.wordpress.com/2017/06/06/day-2/)
