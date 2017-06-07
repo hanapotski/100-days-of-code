@@ -37,7 +37,7 @@
 
 ### Day 3: June 6, 2017
 
-**Today's Progress**: Finished Bootstrap and jQuery in FCC. Made a portfolio website.
+**Today's Progress**: Finished Bootstrap and jQuery in FCC. Made a portfolio website using codepen.
 
 **Thoughts:** I wish this time, JavaScript will be good to me.
 
