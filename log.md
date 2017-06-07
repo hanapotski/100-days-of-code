@@ -34,3 +34,15 @@
 1. [My Projects' Homepage](https://hanapotski.github.io/myprojects/)
 2. [Github](https://github.com/hanapotski/myprojects)
 3. [Wordpress](https://homemadecoder.wordpress.com/2017/06/06/day-2/)
+
+### Day 3: June 6, 2017
+
+**Today's Progress**: Finished Bootstrap and jQuery in FCC. Made a portfolio website.
+
+**Thoughts:** I wish this time, JavaScript will be good to me.
+
+**Link to work:**
+1. [My Projects' Homepage](https://hanapotski.github.io/myprojects/)
+2. [Github](https://github.com/hanapotski/myprojects)
+3. [Wordpress](https://homemadecoder.wordpress.com/2017/06/06/day-3/)
+4. [Codepen](https://codepen.io/Hanapotski/pen/GEJQXq)
