@@ -1,4 +1,5 @@
 # 100 Days Of Code - Log
+[My Projects' Homepage](https://hanapotski.github.io/myprojects/)
 
 ### Day 0: June 3, 2017
 
@@ -7,11 +8,11 @@
 **Thoughts:** I'll use [Jennifer Dewalt's projects](https://jenniferdewalt.com/) for inspiration. But for my main project, I will make my own portfolio website.
 
 **Link to work:**
-1. [Github](https://github.com/hanapotski/100-days-of-code)
-2. [Myprojects](https://github.com/hanapotski/myprojects)
-3. [Twitter](https://twitter.com/homemadecoder)
-4. [Instagram](https://www.instagram.com/homemadecoder/)
-5. [Wordpress](https://homemadecoder.wordpress.com/)
+[Github](https://github.com/hanapotski/100-days-of-code)
+[Myprojects](https://github.com/hanapotski/myprojects)
+[Twitter](https://twitter.com/homemadecoder)
+[Instagram](https://www.instagram.com/homemadecoder/)
+[Wordpress](https://homemadecoder.wordpress.com/)
 
 ### Day 1: June 4, 2017
 
@@ -20,9 +21,8 @@
 **Thoughts:** Someday I'll make my own portfolio website without using a template.
 
 **Link to work:**
-1. [HannahZulueta](https://hanapotski.github.io/hannahzulueta/)
-2. [Github](https://github.com/hanapotski/hannahzulueta)
-3. [Wordpress](https://homemadecoder.wordpress.com/2017/06/06/day-1/)
+[HannahZulueta](https://hanapotski.github.io/hannahzulueta/)
+[Wordpress](https://homemadecoder.wordpress.com/2017/06/06/day-1/)
 
 ### Day 2: June 5, 2017
 
@@ -31,9 +31,8 @@
 **Thoughts:** Wonderwoman is awesome.(we saw the movie this morning. she's so cool xD)
 
 **Link to work:**
-1. [My Projects' Homepage](https://hanapotski.github.io/myprojects/)
-2. [Github](https://github.com/hanapotski/myprojects)
-3. [Wordpress](https://homemadecoder.wordpress.com/2017/06/06/day-2/)
+[My Projects' Homepage](https://hanapotski.github.io/myprojects/)
+[Wordpress](https://homemadecoder.wordpress.com/2017/06/06/day-2/)
 
 ### Day 3: June 6, 2017
 
@@ -42,7 +41,16 @@
 **Thoughts:** I wish this time, JavaScript will be good to me.
 
 **Link to work:**
-1. [My Projects' Homepage](https://hanapotski.github.io/myprojects/)
-2. [Github](https://github.com/hanapotski/myprojects)
-3. [Wordpress](https://homemadecoder.wordpress.com/2017/06/06/day-3/)
-4. [Codepen](https://codepen.io/Hanapotski/pen/GEJQXq)
+[Codepen](https://codepen.io/Hanapotski/full/GEJQXq/)
+[Wordpress](https://homemadecoder.wordpress.com/2017/06/07/day-3//)
+
+
+### Day 4: June 7, 2017
+
+**Today's Progress**: Used bootstrap, jquery, and animate.css on an actual project.
+
+**Thoughts:** I'm still wondering how to format a write-protected flash drive.
+
+**Link to work:**
+[Codepen](https://codepen.io/Hanapotski/full/weKryW/)
+[Wordpress](https://homemadecoder.wordpress.com/2017/06/08/day-3/)
