@@ -8,11 +8,12 @@
 **Thoughts:** I'll use [Jennifer Dewalt's projects](https://jenniferdewalt.com/) for inspiration. But for my main project, I will make my own portfolio website.
 
 **Link to work:**
-[Github](https://github.com/hanapotski/100-days-of-code)
-[Myprojects](https://github.com/hanapotski/myprojects)
-[Twitter](https://twitter.com/homemadecoder)
-[Instagram](https://www.instagram.com/homemadecoder/)
-[Wordpress](https://homemadecoder.wordpress.com/)
+1. [Github](https://github.com/hanapotski/100-days-of-code)
+2. [Myprojects](https://github.com/hanapotski/myprojects)
+3. [Twitter](https://twitter.com/homemadecoder)
+4. [Instagram](https://www.instagram.com/homemadecoder/)
+5. [Wordpress](https://homemadecoder.wordpress.com/)
+6. [Codepen](https://codepen.io/Hanapotski)
 
 ### Day 1: June 4, 2017
 
@@ -21,8 +22,8 @@
 **Thoughts:** Someday I'll make my own portfolio website without using a template.
 
 **Link to work:**
-[HannahZulueta](https://hanapotski.github.io/hannahzulueta/)
-[Wordpress](https://homemadecoder.wordpress.com/2017/06/06/day-1/)
+1. [HannahZulueta](https://hanapotski.github.io/hannahzulueta/)
+2. [Wordpress](https://homemadecoder.wordpress.com/2017/06/06/day-1/)
 
 ### Day 2: June 5, 2017
 
@@ -31,8 +32,8 @@
 **Thoughts:** Wonderwoman is awesome.(we saw the movie this morning. she's so cool xD)
 
 **Link to work:**
-[My Projects' Homepage](https://hanapotski.github.io/myprojects/)
-[Wordpress](https://homemadecoder.wordpress.com/2017/06/06/day-2/)
+1. [My Projects' Homepage](https://hanapotski.github.io/myprojects/)
+2. [Wordpress](https://homemadecoder.wordpress.com/2017/06/06/day-2/)
 
 ### Day 3: June 6, 2017
 
@@ -41,8 +42,8 @@
 **Thoughts:** I wish this time, JavaScript will be good to me.
 
 **Link to work:**
-[Codepen](https://codepen.io/Hanapotski/full/GEJQXq/)
-[Wordpress](https://homemadecoder.wordpress.com/2017/06/07/day-3//)
+1. [Codepen](https://codepen.io/Hanapotski/full/GEJQXq/)
+2. [Wordpress](https://homemadecoder.wordpress.com/2017/06/07/day-3//)
 
 
 ### Day 4: June 7, 2017
@@ -52,5 +53,5 @@
 **Thoughts:** I'm still wondering how to format a write-protected flash drive.
 
 **Link to work:**
-[Codepen](https://codepen.io/Hanapotski/full/weKryW/)
-[Wordpress](https://homemadecoder.wordpress.com/2017/06/08/day-3/)
+1. [Codepen](https://codepen.io/Hanapotski/full/weKryW/)
+2. [Wordpress](https://homemadecoder.wordpress.com/2017/06/08/day-3/)
