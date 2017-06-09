@@ -55,3 +55,13 @@
 **Link to work:**
 1. [Codepen](https://codepen.io/Hanapotski/full/weKryW/)
 2. [Wordpress](https://homemadecoder.wordpress.com/2017/06/08/day-3/)
+
+### Day 5: June 8, 2017
+
+**Today's Progress**: Read a little about JavaScript. Made a monster secretary.
+
+**Thoughts:** Having a hard time finding solutions to what I wanted to do.
+
+**Link to work:**
+1. [Codepen](https://codepen.io/Hanapotski/full/NgxGba/)
+2. [Wordpress](https://homemadecoder.wordpress.com/2017/06/09/day-5/?frame-nonce=44a2032f7e/)
