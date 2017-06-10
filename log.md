@@ -64,4 +64,14 @@
 
 **Link to work:**
 1. [Codepen](https://codepen.io/Hanapotski/full/NgxGba/)
-2. [Wordpress](https://homemadecoder.wordpress.com/2017/06/09/day-5/?frame-nonce=44a2032f7e/)
+2. [Wordpress](https://homemadecoder.wordpress.com/2017/06/09/day-5/)
+
+### Day 6: June 9, 2017
+
+**Today's Progress**: Did some JavaScript Challenges on FCC. Made a friendly strawberry page.
+
+**Thoughts:** I wish I know more JavaScript -.-
+
+**Link to work:**
+1. [Codepen](https://codepen.io/Hanapotski/full/gRPEVx//)
+2. [Wordpress](https://homemadecoder.wordpress.com/2017/06/10/day-6/)
