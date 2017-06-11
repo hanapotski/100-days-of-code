@@ -73,5 +73,15 @@
 **Thoughts:** I wish I know more JavaScript -.-
 
 **Link to work:**
-1. [Codepen](https://codepen.io/Hanapotski/full/gRPEVx//)
+1. [Codepen](https://codepen.io/Hanapotski/full/gRPEVx/)
 2. [Wordpress](https://homemadecoder.wordpress.com/2017/06/10/day-6/)
+
+### Day 7: June 10, 2017
+
+**Today's Progress**: Tried to make a glaze-a-donut page but failed. Made some animated buttons instead
+
+**Thoughts:** Needs to double time learning about javascript
+
+**Link to work:**
+1. [Codepen](https://codepen.io/Hanapotski/full/XgdNzg/)
+2. [Wordpress](https://homemadecoder.wordpress.com/2017/06/11/day-7/)
