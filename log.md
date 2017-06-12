@@ -85,3 +85,13 @@
 **Link to work:**
 1. [Codepen](https://codepen.io/Hanapotski/full/XgdNzg/)
 2. [Wordpress](https://homemadecoder.wordpress.com/2017/06/11/day-7/)
+
+### Day 8: June 11, 2017
+
+**Today's Progress**: Did some JavaScript challenges. Embedded videos.
+
+**Thoughts:** Need to think of more projects
+
+**Link to work:**
+1. [Codepen](https://hanapotski.github.io/myprojects/project8/gifts.html)
+2. [Wordpress](https://homemadecoder.wordpress.com/2017/06/12/day-8/)
