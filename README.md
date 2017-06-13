@@ -1,4 +1,4 @@
-# I've joined the #100DaysOfCode Challenge.
+# I've joined the #100DaysOfCode Challenge. - June 3, 2017
 
 ## Contents
 * [Rules](rules.md)
