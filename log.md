@@ -96,7 +96,7 @@
 1. [Gh-pages](https://hanapotski.github.io/myprojects/project8/gifts.html)
 2. [Wordpress](https://homemadecoder.wordpress.com/2017/06/12/day-8/)
 
-### Day 8: June 12, 2017
+### Day 9: June 12, 2017
 
 **Today's Progress**: Did some JavaScript challenges on FCC. Made an e-card.
 
@@ -105,3 +105,13 @@
 **Link to work:**
 1. [Gh-pages](https://hanapotski.github.io/myprojects/project9/ecard.html)
 2. [Wordpress](https://homemadecoder.wordpress.com/2017/06/13/day-9)
+
+### Day 9: June 13, 2017
+
+**Today's Progress**: Made a story page for Queen Esther.
+
+**Thoughts:** Time is faster here in the US than in the Philippines. Wish I have more than 24 hours (but that would be very tiring).
+
+**Link to work:**
+1. [Codepen](https://codepen.io/Hanapotski/full/BZzEKR/)
+2. [Wordpress](https://homemadecoder.wordpress.com/2017/06/13/day-10)
