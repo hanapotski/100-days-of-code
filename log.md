@@ -93,5 +93,15 @@
 **Thoughts:** Need to think of more projects
 
 **Link to work:**
-1. [Codepen](https://hanapotski.github.io/myprojects/project8/gifts.html)
+1. [Gh-pages](https://hanapotski.github.io/myprojects/project8/gifts.html)
 2. [Wordpress](https://homemadecoder.wordpress.com/2017/06/12/day-8/)
+
+### Day 8: June 12, 2017
+
+**Today's Progress**: Did some JavaScript challenges on FCC. Made an e-card.
+
+**Thoughts:** Wish I could do more JavaScript projects
+
+**Link to work:**
+1. [Gh-pages](https://hanapotski.github.io/myprojects/project9/ecard.html)
+2. [Wordpress](https://homemadecoder.wordpress.com/2017/06/13/day-9)
