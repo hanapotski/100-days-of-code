@@ -106,7 +106,7 @@
 1. [Gh-pages](https://hanapotski.github.io/myprojects/project9/ecard.html)
 2. [Wordpress](https://homemadecoder.wordpress.com/2017/06/13/day-9)
 
-### Day 9: June 13, 2017
+### Day 10: June 13, 2017
 
 **Today's Progress**: Made a story page for Queen Esther.
 
@@ -114,4 +114,14 @@
 
 **Link to work:**
 1. [Codepen](https://codepen.io/Hanapotski/full/BZzEKR/)
+2. [Wordpress](https://homemadecoder.wordpress.com/2017/06/13/day-10)
+
+### Day 11: June 14, 2017
+
+**Today's Progress**: Learned how to navigate through the command-line. Did some JavaScript challenges on FCC. Working on himitsu message.
+
+**Thoughts:** I didn't think it would be this hard to make a secret message.
+
+**Link to work:**
+1. [Github](https://hanapotski.github.io/myprojects/project11/index.html)
 2. [Wordpress](https://homemadecoder.wordpress.com/2017/06/13/day-10)
