@@ -1,3 +1,13 @@
+### Day 13: June 16, 2017
+
+**Today's Progress**: Stuck at Switch challenges. Skipped it to not break my streaks ;) I'll upload my project tomorrow
+
+**Thoughts:** Need to start working out soon so I'll have more energy.
+
+**Link to work:**
+1. Project to follow
+2. [Wordpress](https://homemadecoder.wordpress.com/2017/06/17/day-13)
+
 ### Day 12: June 15, 2017
 
 **Today's Progress**: Did some JavaScipt challenges on FCC. Made a page display a random color.
