@@ -1,3 +1,14 @@
+### Day 14: June 17, 2017
+
+**Today's Progress**: Stuck at Switch challenges. Skipped it to not break my streaks ;) I'll upload my project tomorrow
+
+**Thoughts:** Need to start working out soon so I'll have more energy.
+
+**Link to work:**
+1. [Codepen] (https://codepen.io/Hanapotski/full/VWPBjM/)
+2. [Codepen] (https://codepen.io/Hanapotski/full/owBPvM/)
+2. [Wordpress](https://homemadecoder.wordpress.com/2017/06/18/day-14)
+
 ### Day 13: June 16, 2017
 
 **Today's Progress**: Stuck at Switch challenges. Skipped it to not break my streaks ;) I'll upload my project tomorrow
