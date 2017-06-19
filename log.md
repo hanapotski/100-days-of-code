@@ -1,13 +1,23 @@
+### Day 15: June 18, 2017
+
+**Today's Progress**: Did some FCC challenges. Made use of hover() and toggleClass() functions.
+
+**Thoughts:** I wish I can do more. If only I can have 48 hours a day.
+
+**Link to work:**
+1. [Codepen] (https://codepen.io/Hanapotski/full/vZxBJK/)
+2. [Wordpress](https://homemadecoder.wordpress.com/2017/06/19/day-15)
+
 ### Day 14: June 17, 2017
 
-**Today's Progress**: Stuck at Switch challenges. Skipped it to not break my streaks ;) I'll upload my project tomorrow
+**Today's Progress**: Figured out the switch challenge on my own. Made 2 projects.
 
-**Thoughts:** Need to start working out soon so I'll have more energy.
+**Thoughts:** I'm amazed how I managed to make 2 projects even though I started late.
 
 **Link to work:**
 1. [Codepen] (https://codepen.io/Hanapotski/full/VWPBjM/)
 2. [Codepen] (https://codepen.io/Hanapotski/full/owBPvM/)
-2. [Wordpress](https://homemadecoder.wordpress.com/2017/06/18/day-14)
+3. [Wordpress](https://homemadecoder.wordpress.com/2017/06/18/day-14)
 
 ### Day 13: June 16, 2017
 
