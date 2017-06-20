@@ -1,3 +1,13 @@
+### Day 16: June 19, 2017
+
+**Today's Progress**: Command Line tutorial on Codecademy. JSON. Made a simple converter.
+
+**Thoughts:** I need more JavaScript practice.
+
+**Link to work:**
+1. [Codepen] (https://codepen.io/Hanapotski/full/JJWwvZ/)
+2. [Wordpress](https://homemadecoder.wordpress.com/2017/06/19/day-16)
+
 ### Day 15: June 18, 2017
 
 **Today's Progress**: Did some FCC challenges. Made use of hover() and toggleClass() functions.
