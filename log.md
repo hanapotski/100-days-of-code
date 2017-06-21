@@ -1,8 +1,8 @@
 ### Day 17: June 20, 2017
 
-**Today's Progress**: Command Line tutorial on Codecademy. JSON. Made a simple converter.
+**Today's Progress**: More command line. JavaScript for objects and for loops. Analog clock using JavaScript.
 
-**Thoughts:** I need more JavaScript practice.
+**Thoughts:** I'm learning to love JavaScript.
 
 **Link to work:**
 1. [Codepen] (https://codepen.io/Hanapotski/full/PjmQzP/)
