@@ -1,3 +1,13 @@
+### Day 17: June 20, 2017
+
+**Today's Progress**: Command Line tutorial on Codecademy. JSON. Made a simple converter.
+
+**Thoughts:** I need more JavaScript practice.
+
+**Link to work:**
+1. [Codepen] (https://codepen.io/Hanapotski/full/PjmQzP/)
+2. [Wordpress](https://homemadecoder.wordpress.com/2017/06/21/day-17)
+
 ### Day 16: June 19, 2017
 
 **Today's Progress**: Command Line tutorial on Codecademy. JSON. Made a simple converter.
