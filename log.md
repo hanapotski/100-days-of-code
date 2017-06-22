@@ -1,5 +1,13 @@
 ### Day 17: June 20, 2017
 
+**Today's Progress**: Last serving of command line. More JavaScript loops and nested loops. Started JavaScipt tutorial on Udacity.
+
+**Thoughts:** I want to fully understad JavaScript and be able to use it. 
+**Link to work:**
+1. [Wordpress](https://homemadecoder.wordpress.com/2017/06/22/day-18)
+
+### Day 17: June 20, 2017
+
 **Today's Progress**: More command line. JavaScript for objects and for loops. Analog clock using JavaScript.
 
 **Thoughts:** I'm learning to love JavaScript.
