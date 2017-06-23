@@ -1,8 +1,19 @@
-### Day 17: June 20, 2017
+### Day 19: June 22, 2017
+
+**Today's Progress**: Made two projects but the other one still needs some positioning done. Did some JavaScript challenges on FCC. Will try to finish the Basic JavaScript part so I can start on OPP tomorrow. JavaScript reinforcement on Udacity.
+
+**Thoughts:** It's frustrating when you can't figure out something.
+
+**Link to work:**
+1. [Codepen] (https://codepen.io/Hanapotski/full/GEEERj/)
+2. [Codepen] (https://codepen.io/Hanapotski/full/OgNRWQ/)
+3. [Wordpress](https://homemadecoder.wordpress.com/2017/06/23/day-19/)
+
+### Day 18: June 21, 2017
 
 **Today's Progress**: Last serving of command line. More JavaScript loops and nested loops. Started JavaScipt tutorial on Udacity.
 
-**Thoughts:** I want to fully understad JavaScript and be able to use it. 
+**Thoughts:** I want to fully understad JavaScript and be able to use it.
 **Link to work:**
 1. [Wordpress](https://homemadecoder.wordpress.com/2017/06/22/day-18)
 
