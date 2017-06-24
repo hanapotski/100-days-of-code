@@ -1,3 +1,13 @@
+### Day 20: June 23, 2017
+
+**Today's Progress**: Still working on the JavaScript course on Udacity. Reviewing the basics. Started on OOP and FP on FCC.
+
+**Thoughts:** I wish I'll find a JavaScript buddy soon.
+
+**Link to work:**
+1. [Codepen] (https://codepen.io/Hanapotski/full/eREPZg/)
+2. [Wordpress](https://homemadecoder.wordpress.com/2017/06/24/day-20
+
 ### Day 19: June 22, 2017
 
 **Today's Progress**: Made two projects but the other one still needs some positioning done. Did some JavaScript challenges on FCC. Will try to finish the Basic JavaScript part so I can start on OPP tomorrow. JavaScript reinforcement on Udacity.
