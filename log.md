@@ -1,3 +1,13 @@
+### Day 21: June 24, 2017
+
+**Today's Progress**: Started doing some basic algorithm challenges on FCC.
+
+**Thoughts:** Solving problems are fun but gets frustrating when I can't figure it out.
+
+**Link to work:**
+1. [Codepen] (https://codepen.io/Hanapotski/full/rwGVdz/)
+2. [Wordpress](https://homemadecoder.wordpress.com/2017/06/25/day-21/)
+
 ### Day 20: June 23, 2017
 
 **Today's Progress**: Still working on the JavaScript course on Udacity. Reviewing the basics. Started on OOP and FP on FCC.
@@ -6,7 +16,7 @@
 
 **Link to work:**
 1. [Codepen] (https://codepen.io/Hanapotski/full/eREPZg/)
-2. [Wordpress](https://homemadecoder.wordpress.com/2017/06/24/day-20
+2. [Wordpress](https://homemadecoder.wordpress.com/2017/06/24/day-20)
 
 ### Day 19: June 22, 2017
 
