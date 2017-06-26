@@ -1,3 +1,13 @@
+### Day 22: June 25, 2017
+
+**Today's Progress**: Basic Algorithm Challenges on FCC. Working on Loops in Udacity's Basic JavaScript course.
+
+**Thoughts:** The algorithm challenges are not easy. 
+
+**Link to work:**
+1. [Codepen] (https://codepen.io/Hanapotski/full/Qgqqqb)
+2. [Wordpress](https://homemadecoder.wordpress.com/2017/06/26/day-22)
+
 ### Day 21: June 24, 2017
 
 **Today's Progress**: Started doing some basic algorithm challenges on FCC.
