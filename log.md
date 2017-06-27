@@ -1,8 +1,18 @@
+### Day 23: June 26, 2017
+
+**Today's Progress**: JavaScript Loops.
+
+**Thoughts:** Feels good to make a new friend.
+
+**Link to work:**
+1. [Codepen] (https://codepen.io/Hanapotski/full/zzPBXy/)
+2. [Wordpress](https://homemadecoder.wordpress.com/2017/06/27/day-23)
+
 ### Day 22: June 25, 2017
 
 **Today's Progress**: Basic Algorithm Challenges on FCC. Working on Loops in Udacity's Basic JavaScript course.
 
-**Thoughts:** The algorithm challenges are not easy. 
+**Thoughts:** The algorithm challenges are not easy.
 
 **Link to work:**
 1. [Codepen] (https://codepen.io/Hanapotski/full/Qgqqqb)
