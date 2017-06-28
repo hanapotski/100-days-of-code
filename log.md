@@ -1,3 +1,13 @@
+### Day 24: June 27, 2017
+
+**Today's Progress**: JavaScript Functions.
+
+**Thoughts:** Learning from mistakes is the best way to learn.
+
+**Link to work:**
+1. [Codepen] (https://codepen.io/Hanapotski/full/LLOarq/)
+2. [Wordpress](https://homemadecoder.wordpress.com/2017/06/28/day-24)
+
 ### Day 23: June 26, 2017
 
 **Today's Progress**: JavaScript Loops.
