@@ -1,3 +1,13 @@
+### Day 25: June 28, 2017
+
+**Today's Progress**: JavaScript Arrays. Learned some atom shortcuts.
+
+**Thoughts:** I hope to learn a backend language soon which will enable me to keep the interactions of the users with my page.
+
+**Link to work:**
+1. [Codepen] (https://codepen.io/Hanapotski/full/NgXLpv/)
+2. [Wordpress](https://homemadecoder.wordpress.com/2017/06/29/day-25/)
+
 ### Day 24: June 27, 2017
 
 **Today's Progress**: JavaScript Functions.
