@@ -1,3 +1,13 @@
+### Day 26: June 29, 2017
+
+**Today's Progress**: JavaScript Objects. Finished Intro to JavaScript on Udacity. Went to a JavaScript Meetup.
+
+**Thoughts:** If only I can, I would go through all of the free courses on the internet to learn how to code/program!lol Wish I have more time than 24 hours.
+
+**Link to work:**
+1. [Codepen] (https://codepen.io/Hanapotski/full/WOMXar/)
+2. [Wordpress](https://homemadecoder.wordpress.com/2017/06/30/day-26/)
+
 ### Day 25: June 28, 2017
 
 **Today's Progress**: JavaScript Arrays. Learned some atom shortcuts.
