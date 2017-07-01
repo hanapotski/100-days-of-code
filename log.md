@@ -1,3 +1,13 @@
+### Day 27: June 30, 2017
+
+**Today's Progress**: Javascript course on CodeCademy.
+
+**Thoughts:** Can't believe I'm almost on my first month.
+
+**Link to work:**
+1. [Codepen] (https://codepen.io/Hanapotski/full/NgYGpZ/)
+2. [Wordpress](https://homemadecoder.wordpress.com/2017/07/01/day-27/)
+
 ### Day 26: June 29, 2017
 
 **Today's Progress**: JavaScript Objects. Finished Intro to JavaScript on Udacity. Went to a JavaScript Meetup.
