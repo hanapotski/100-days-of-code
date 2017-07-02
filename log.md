@@ -1,3 +1,12 @@
+### Day 28: July 1, 2017
+
+**Today's Progress**: Rest day.
+
+**Thoughts:** I'll catch up tomorrow.
+
+**Link to work:**
+1. [Wordpress](https://homemadecoder.wordpress.com/2017/07/02/day-28/)
+
 ### Day 27: June 30, 2017
 
 **Today's Progress**: Javascript course on CodeCademy.
