@@ -1,3 +1,13 @@
+### Day 29: July 2, 2017
+
+**Today's Progress**: Git tutorial on Codecademy. JavaScript tutorials on w3schools.
+
+**Thoughts:** 2 more mini projects and then I'll do some real websites.
+
+**Link to work:**
+1. [Codepen] (https://codepen.io/Hanapotski/full/OgvGdX/)
+2. [Wordpress](https://homemadecoder.wordpress.com/2017/07/03/day-29/)
+
 ### Day 28: July 1, 2017
 
 **Today's Progress**: Rest day.
