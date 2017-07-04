@@ -1,3 +1,12 @@
+### Day 30: July 3, 2017
+
+**Today's Progress**: RegExp + basic algorithm challenges.
+
+**Thoughts:** My mind is on a holiday. Will work on my last 2 mini projects tomorrow.
+
+**Link to work:**
+1. [Wordpress](https://homemadecoder.wordpress.com/2017/07/04/day-30/)
+
 ### Day 29: July 2, 2017
 
 **Today's Progress**: Git tutorial on Codecademy. JavaScript tutorials on w3schools.
