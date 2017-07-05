@@ -1,3 +1,14 @@
+### Day 31: July 4, 2017
+
+**Today's Progress**: Some PHP and an algorithm on FCC
+
+**Thoughts:** 1 last mini project then I'll try to do the daily css image
+
+**Link to work:**
+1. [Codepen] (https://codepen.io/Hanapotski/full/gRzKar/)
+2. [Wordpress](https://homemadecoder.wordpress.com/2017/07/05/day-31/)
+
+
 ### Day 30: July 3, 2017
 
 **Today's Progress**: RegExp + basic algorithm challenges.
