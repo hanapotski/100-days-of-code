@@ -1,3 +1,13 @@
+### Day 32: July 5, 2017
+
+**Today's Progress**: Not much coding. Practiced HTML and CSS. Used jQuery accordion on a project
+
+**Thoughts:** Contemplated whether I should pursue an associate's degree in computer science and concluded I don't need one. Instead of daily css image, I'll do the JavaScript30 challenge and stick with learning more about JavaScript until I get comfortable with it. 
+
+**Link to work:**
+1. [Codepen] (https://codepen.io/Hanapotski/full/gRzKar/)
+2. [Wordpress](https://homemadecoder.wordpress.com/2017/07/05/day-31/)
+
 ### Day 31: July 4, 2017
 
 **Today's Progress**: Some PHP and an algorithm on FCC
