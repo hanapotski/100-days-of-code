@@ -1,12 +1,21 @@
+### Day 33: July 6, 2017
+
+**Today's Progress**: Started the YDKJS series and signed up for the 30 days of JavaScript challenge (if you'll call this progress lol)
+
+**Thoughts:** So tired. Need to sleep.
+
+**Link to work:**
+1. [Wordpress](https://homemadecoder.wordpress.com/2017/07/07/day-33/)
+
 ### Day 32: July 5, 2017
 
 **Today's Progress**: Not much coding. Practiced HTML and CSS. Used jQuery accordion on a project
 
-**Thoughts:** Contemplated whether I should pursue an associate's degree in computer science and concluded I don't need one. Instead of daily css image, I'll do the JavaScript30 challenge and stick with learning more about JavaScript until I get comfortable with it. 
+**Thoughts:** Contemplated whether I should pursue an associate's degree in computer science and concluded I don't need one. Instead of daily css image, I'll do the JavaScript30 challenge and stick with learning more about JavaScript until I get comfortable with it.
 
 **Link to work:**
 1. [Codepen] (https://codepen.io/Hanapotski/full/gRzKar/)
-2. [Wordpress](https://homemadecoder.wordpress.com/2017/07/05/day-31/)
+2. [Wordpress](https://homemadecoder.wordpress.com/2017/07/06/day-32/)
 
 ### Day 31: July 4, 2017
 
