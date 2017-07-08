@@ -5,7 +5,7 @@
 **Thoughts:** Hope next week will be more productive.
 
 **Link to work:**
-1. [Wordpress](https://homemadecoder.wordpress.com/2017/07/07/day-33/)
+1. [Wordpress](https://homemadecoder.wordpress.com/2017/07/08/day-34/)
 
 ### Day 33: July 6, 2017
 
