@@ -1,3 +1,12 @@
+### Day 34: July 7, 2017
+
+**Today's Progress**: Not much. I was busy doing errands the whole day.
+
+**Thoughts:** Hope next week will be more productive.
+
+**Link to work:**
+1. [Wordpress](https://homemadecoder.wordpress.com/2017/07/07/day-33/)
+
 ### Day 33: July 6, 2017
 
 **Today's Progress**: Started the YDKJS series and signed up for the 30 days of JavaScript challenge (if you'll call this progress lol)
