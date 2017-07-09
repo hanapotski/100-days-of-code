@@ -1,3 +1,12 @@
+### Day 35: July 8, 2017
+
+**Today's Progress**: 1st chapter of YDKJS - Up & Going
+
+**Thoughts:** Happy to get back on my study routine
+
+**Link to work:**
+1. [Wordpress](https://homemadecoder.wordpress.com/2017/07/09/day-35/)
+
 ### Day 34: July 7, 2017
 
 **Today's Progress**: Not much. I was busy doing errands the whole day.
