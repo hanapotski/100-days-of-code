@@ -1,4 +1,4 @@
-### Day 36: July 10, 2017
+### Day 37: July 10, 2017
 
 **Today's Progress**: Up and Going chapter 2.
 
@@ -7,7 +7,7 @@
 **Link to work:**
 1. [Wordpress](https://homemadecoder.wordpress.com/2017/07/11/day-37/)
 
-### Day 35: July 9, 2017
+### Day 36: July 9, 2017
 
 **Today's Progress**: Finished the 1st chapter of Up & Going.
 
