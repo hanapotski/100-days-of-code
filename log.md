@@ -1,3 +1,12 @@
+### Day 38: July 11, 2017
+
+**Today's Progress**: Finished Up and Going. Started a new JS course on Codecademy.
+
+**Thoughts:** Hope to fill my portfolio with real websites soon.
+
+**Link to work:**
+1. [Wordpress](https://homemadecoder.wordpress.com/2017/07/12/day-38/)
+
 ### Day 37: July 10, 2017
 
 **Today's Progress**: Up and Going chapter 2.
