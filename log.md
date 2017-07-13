@@ -1,3 +1,12 @@
+### Day 39: July 12, 2017
+
+**Today's Progress**: Functions and closures
+
+**Thoughts:** Body is tired but mind wants to learn more
+
+**Link to work:**
+1. [Wordpress][https://homemadecoder.wordpress.com/2017/07/13/day-39/)
+
 ### Day 38: July 11, 2017
 
 **Today's Progress**: Finished Up and Going. Started a new JS course on Codecademy.
