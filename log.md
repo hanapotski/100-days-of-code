@@ -1,3 +1,12 @@
+### Day 40: July 13, 2017
+
+**Today's Progress**: Scopes
+
+**Thoughts:** I wish I'll learn faster.
+
+**Link to work:**
+1. [Wordpress][https://homemadecoder.wordpress.com/2017/07/14/day-40/)
+
 ### Day 39: July 12, 2017
 
 **Today's Progress**: Functions and closures
