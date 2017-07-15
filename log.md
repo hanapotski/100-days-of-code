@@ -1,3 +1,12 @@
+### Day 41: July 14, 2017
+
+**Today's Progress**: More about scopes and some JS challenges on codecademy
+
+**Thoughts:** I'm not afraid of spiders. I just don't like them.
+
+**Link to work:**
+1. [Wordpress][https://homemadecoder.wordpress.com/2017/07/14/day-40/)
+
 ### Day 40: July 13, 2017
 
 **Today's Progress**: Scopes
