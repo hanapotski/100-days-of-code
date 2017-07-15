@@ -5,7 +5,7 @@
 **Thoughts:** I'm not afraid of spiders. I just don't like them.
 
 **Link to work:**
-1. [Wordpress][https://homemadecoder.wordpress.com/2017/07/14/day-40/)
+1. [Wordpress][https://homemadecoder.wordpress.com/2017/07/15/day-41/)
 
 ### Day 40: July 13, 2017
 
