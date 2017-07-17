@@ -1,3 +1,21 @@
+### Day 43: July 16, 2017
+
+**Today's Progress**: Block scope, let and const. Bought 2 courses on Udemy.
+
+**Thoughts:** Excited to start the new courses I bought.
+
+**Link to work:**
+1. [Wordpress][https://homemadecoder.wordpress.com/2017/07/17/day-43/)
+
+### Day 42: July 15, 2017
+
+**Today's Progress**: JS loops and scopes.
+
+**Thoughts:** I hope my mind will save everything I've been learning about scopes lol if only I can cmd + s on my brain.
+
+**Link to work:**
+1. [Wordpress][https://homemadecoder.wordpress.com/2017/07/16/day-42/)
+
 ### Day 41: July 14, 2017
 
 **Today's Progress**: More about scopes and some JS challenges on codecademy
