@@ -1,3 +1,12 @@
+### Day 44: July 17, 2017
+
+**Today's Progress**: Started learning Vue.js
+
+**Thoughts:** So far I'm loving vue :)
+
+**Link to work:**
+1. [Wordpress][https://homemadecoder.wordpress.com/2017/07/17/day-43/)
+
 ### Day 43: July 16, 2017
 
 **Today's Progress**: Block scope, let and const. Bought 2 courses on Udemy.
