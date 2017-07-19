@@ -1,3 +1,12 @@
+### Day 45: July 18, 2017
+
+**Today's Progress**: Events in VueJS. Read a bit about scopes and closures.
+
+**Thoughts:** If only I had more time -.-
+
+**Link to work:**
+1. [Wordpress][https://homemadecoder.wordpress.com/2017/07/19/day-45/)
+
 ### Day 44: July 17, 2017
 
 **Today's Progress**: Started learning Vue.js
@@ -5,7 +14,7 @@
 **Thoughts:** So far I'm loving vue :)
 
 **Link to work:**
-1. [Wordpress][https://homemadecoder.wordpress.com/2017/07/17/day-43/)
+1. [Wordpress][https://homemadecoder.wordpress.com/2017/07/18/day-44/)
 
 ### Day 43: July 16, 2017
 
