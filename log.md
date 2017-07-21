@@ -1,3 +1,12 @@
+### Day 46: July 20, 2017
+
+**Today's Progress**: JavaScript tutorials in Codecademy
+
+**Thoughts:** Wish I had more friends to hangout with -.-
+
+**Link to work:**
+1. [Wordpress][https://homemadecoder.wordpress.com/2017/07/21/day-46/)
+
 ### Day 45: July 18, 2017
 
 **Today's Progress**: Events in VueJS. Read a bit about scopes and closures.
