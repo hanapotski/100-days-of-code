@@ -1,3 +1,12 @@
+### Day 47: July 21, 2017
+
+**Today's Progress**: Finished JavaScript tutorials in Codecademy
+
+**Thoughts:** I'm having fun with JS object classes and prototypes
+
+**Link to work:**
+1. [Wordpress][https://homemadecoder.wordpress.com/2017/07/22/day-47/)
+
 ### Day 46: July 20, 2017
 
 **Today's Progress**: JavaScript tutorials in Codecademy
