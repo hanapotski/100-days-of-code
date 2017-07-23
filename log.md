@@ -1,3 +1,12 @@
+### Day 48: July 22, 2017
+
+**Today's Progress**: More JS Objects and Arrays. Continued with VueJS course
+
+**Thoughts:** How do I speed up my learning?
+
+**Link to work:**
+1. [Wordpress][https://homemadecoder.wordpress.com/2017/07/23/day-48/)
+
 ### Day 47: July 21, 2017
 
 **Today's Progress**: Finished JavaScript tutorials in Codecademy
