@@ -1,3 +1,12 @@
+### Day 49: July 23, 2017
+
+**Today's Progress**: Started Web dev bootcamp by Colt Steele.
+
+**Thoughts:** Feeling bad because of my hard drive
+
+**Link to work:**
+1. [Wordpress][https://homemadecoder.wordpress.com/2017/07/23/day-48/)
+
 ### Day 48: July 22, 2017
 
 **Today's Progress**: More JS Objects and Arrays. Continued with VueJS course
