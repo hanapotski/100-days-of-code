@@ -5,7 +5,7 @@
 **Thoughts:** Feeling bad because of my hard drive
 
 **Link to work:**
-1. [Wordpress][https://homemadecoder.wordpress.com/2017/07/23/day-48/)
+1. [Wordpress][https://homemadecoder.wordpress.com/2017/07/24/day-49/)
 
 ### Day 48: July 22, 2017
 
