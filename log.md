@@ -1,3 +1,12 @@
+### Day 50: July 24, 2017
+
+**Today's Progress**: Brush up HTML. Finished Scopes and Closures. Learned about modules.
+
+**Thoughts:** Had my first organic referral in my blog.
+
+**Link to work:**
+1. [Wordpress][https://homemadecoder.wordpress.com/2017/07/25/day-50/)
+
 ### Day 49: July 23, 2017
 
 **Today's Progress**: Started Web dev bootcamp by Colt Steele.
