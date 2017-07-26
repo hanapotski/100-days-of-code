@@ -1,3 +1,12 @@
+### Day 51: July 25, 2017
+
+**Today's Progress**: Finished the CSS portion of the Web Developement Bootcamp
+
+**Thoughts:** Can't wait to learn about APIs and some backend code
+
+**Link to work:**
+1. [Wordpress][https://homemadecoder.wordpress.com/2017/07/26/day-51/)
+
 ### Day 50: July 24, 2017
 
 **Today's Progress**: Brush up HTML. Finished Scopes and Closures. Learned about modules.
