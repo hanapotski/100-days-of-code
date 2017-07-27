@@ -1,3 +1,12 @@
+### Day 52: July 26, 2017
+
+**Today's Progress**: Finished the Bootstrap portion of the Web Developement Bootcamp
+
+**Thoughts:** Wish I can do more in a day
+
+**Link to work:**
+1. [Wordpress][https://homemadecoder.wordpress.com/2017/07/26/day-51/)
+
 ### Day 51: July 25, 2017
 
 **Today's Progress**: Finished the CSS portion of the Web Developement Bootcamp
