@@ -1,3 +1,12 @@
+### Day 53: July 27, 2017
+
+**Today's Progress**: Started a Ruby tutorial on Code School.
+
+**Thoughts:** Excited to learn Ruby :)
+
+**Link to work:**
+1. [Wordpress][https://homemadecoder.wordpress.com/2017/07/26/day-51/)
+
 ### Day 52: July 26, 2017
 
 **Today's Progress**: Finished the Bootstrap portion of the Web Developement Bootcamp
