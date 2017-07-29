@@ -1,3 +1,12 @@
+### Day 54: July 28, 2017
+
+**Today's Progress**: Finished tryruby tutorial on Code School. Started another one one Codecademy
+
+**Thoughts:** Finally have a real project :)
+
+**Link to work:**
+1. [Wordpress][https://homemadecoder.wordpress.com/2017/07/29/day-54/)
+
 ### Day 53: July 27, 2017
 
 **Today's Progress**: Started a Ruby tutorial on Code School.
@@ -5,7 +14,7 @@
 **Thoughts:** Excited to learn Ruby :)
 
 **Link to work:**
-1. [Wordpress][https://homemadecoder.wordpress.com/2017/07/26/day-51/)
+1. [Wordpress][https://homemadecoder.wordpress.com/2017/07/28/day-53/)
 
 ### Day 52: July 26, 2017
 
@@ -14,7 +23,7 @@
 **Thoughts:** Wish I can do more in a day
 
 **Link to work:**
-1. [Wordpress][https://homemadecoder.wordpress.com/2017/07/26/day-51/)
+1. [Wordpress][https://homemadecoder.wordpress.com/2017/07/27/day-52/)
 
 ### Day 51: July 25, 2017
 
