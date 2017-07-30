@@ -1,3 +1,12 @@
+### Day 55: July 29, 2017
+
+**Today's Progress**: Finished Ruby in 100 minutes. Continued Ruby tutorial on Codecademy
+
+**Thoughts:** I almost forgot to update
+
+**Link to work:**
+1. [Wordpress][https://homemadecoder.wordpress.com/2017/07/30/day-55/)
+
 ### Day 54: July 28, 2017
 
 **Today's Progress**: Finished tryruby tutorial on Code School. Started another one one Codecademy
