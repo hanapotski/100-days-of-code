@@ -1,3 +1,12 @@
+### Day 56: July 31, 2017
+
+**Today's Progress**: Continued Ruby tutorial on Codecademy
+
+**Thoughts:** I like how Ruby is easier to understand than JavaScript
+
+**Link to work:**
+1. [Wordpress][https://homemadecoder.wordpress.com/2017/08/01/day-56/)
+
 ### Day 55: July 29, 2017
 
 **Today's Progress**: Finished Ruby in 100 minutes. Continued Ruby tutorial on Codecademy
