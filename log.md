@@ -1,3 +1,12 @@
+### Day 57: August 1, 2017
+
+**Today's Progress**: Still working on Ruby tutorial on Codecademy
+
+**Thoughts:** Hustle!
+
+**Link to work:**
+1. [Wordpress][https://homemadecoder.wordpress.com/2017/08/02/day-57/)
+
 ### Day 56: July 31, 2017
 
 **Today's Progress**: Continued Ruby tutorial on Codecademy
