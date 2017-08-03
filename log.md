@@ -1,3 +1,12 @@
+### Day 58: August 2, 2017
+
+**Today's Progress**: Finished Ruby tutorial on Codecademy
+
+**Thoughts:** Rails! Here I come!:)
+
+**Link to work:**
+1. [Wordpress][https://homemadecoder.wordpress.com/2017/08/03/day-58/)
+
 ### Day 57: August 1, 2017
 
 **Today's Progress**: Still working on Ruby tutorial on Codecademy
