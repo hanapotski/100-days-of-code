@@ -1,3 +1,12 @@
+### Day 59: August 3, 2017
+
+**Today's Progress**: Started learning Rails. Started sunflwerlove project
+
+**Thoughts:** I wonder how long it'll take me to finish the Rails tutorial
+
+**Link to work:**
+1. [Wordpress][https://homemadecoder.wordpress.com/2017/08/04/day-59/)
+2.
 ### Day 58: August 2, 2017
 
 **Today's Progress**: Finished Ruby tutorial on Codecademy
