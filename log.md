@@ -1,3 +1,12 @@
+### Day 60: August 4, 2017
+
+**Today's Progress**: More about MVC. Learned how to use bitbucket. Deployed apps on Heroku
+
+**Thoughts:** Looking forward for more fun apps
+
+**Link to work:**
+1. [Wordpress][https://homemadecoder.wordpress.com/2017/08/05/day-60/)
+
 ### Day 59: August 3, 2017
 
 **Today's Progress**: Started learning Rails. Started sunflwerlove project
@@ -6,7 +15,7 @@
 
 **Link to work:**
 1. [Wordpress][https://homemadecoder.wordpress.com/2017/08/04/day-59/)
-2.
+
 ### Day 58: August 2, 2017
 
 **Today's Progress**: Finished Ruby tutorial on Codecademy
