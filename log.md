@@ -1,3 +1,12 @@
+### Day 61: August 5, 2017
+
+**Today's Progress**: Rails tutorial on Codecademy
+
+**Thoughts:** So tired -.-
+
+**Link to work:**
+1. [Wordpress][https://homemadecoder.wordpress.com/2017/08/06/day-61/)
+
 ### Day 60: August 4, 2017
 
 **Today's Progress**: More about MVC. Learned how to use bitbucket. Deployed apps on Heroku
