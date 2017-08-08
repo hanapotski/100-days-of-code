@@ -1,3 +1,12 @@
+### Day 62: August 7, 2017
+
+**Today's Progress**: Back on Rails tutorial. Codecademy's Rails tutorial has a lot of bugs so not sure if I'll continue with it
+
+**Thoughts:** So much to learn
+
+**Link to work:**
+1. [Wordpress][https://homemadecoder.wordpress.com/2017/08/08/day-62/)
+
 ### Day 61: August 5, 2017
 
 **Today's Progress**: Rails tutorial on Codecademy
