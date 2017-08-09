@@ -1,3 +1,12 @@
+### Day 63: August 8, 2017
+
+**Today's Progress**: Finished chapter 4. Read a bit about design
+
+**Thoughts:** I think Vim would be fun to learn
+
+**Link to work:**
+1. [Wordpress][https://homemadecoder.wordpress.com/2017/08/09/day-63/
+
 ### Day 62: August 7, 2017
 
 **Today's Progress**: Back on Rails tutorial. Codecademy's Rails tutorial has a lot of bugs so not sure if I'll continue with it
