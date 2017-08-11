@@ -1,3 +1,12 @@
+### Day 65: August 10, 2017
+
+**Today's Progress**: Learned how to add styles on my web app and use partials
+
+**Thoughts:** My heart is full :)
+
+**Link to work:**
+1. [Wordpress](https://homemadecoder.wordpress.com/2017/08/11/day-65/)
+
 ### Day 64: August 9, 2017
 
 **Today's Progress**: Worked on Laura's site. Rails tutorial. Proximity and alignment
@@ -86,7 +95,7 @@
 **Thoughts:** I almost forgot to update
 
 **Link to work:**
-1. [Wordpress](https://homemadecoder.wordpress.com/2017/07/30/day-55/)
+1. [Wordpress][https://homemadecoder.wordpress.com/2017/07/30/day-55/)
 
 ### Day 54: July 28, 2017
 
@@ -95,7 +104,7 @@
 **Thoughts:** Finally have a real project :)
 
 **Link to work:**
-1. [Wordpress](https://homemadecoder.wordpress.com/2017/07/29/day-54/)
+1. [Wordpress][https://homemadecoder.wordpress.com/2017/07/29/day-54/)
 
 ### Day 53: July 27, 2017
 
@@ -104,7 +113,7 @@
 **Thoughts:** Excited to learn Ruby :)
 
 **Link to work:**
-1. [Wordpress](https://homemadecoder.wordpress.com/2017/07/28/day-53/)
+1. [Wordpress][https://homemadecoder.wordpress.com/2017/07/28/day-53/)
 
 ### Day 52: July 26, 2017
 
@@ -113,7 +122,7 @@
 **Thoughts:** Wish I can do more in a day
 
 **Link to work:**
-1. [Wordpress](https://homemadecoder.wordpress.com/2017/07/27/day-52/)
+1. [Wordpress][https://homemadecoder.wordpress.com/2017/07/27/day-52/)
 
 ### Day 51: July 25, 2017
 
@@ -122,7 +131,7 @@
 **Thoughts:** Can't wait to learn about APIs and some backend code
 
 **Link to work:**
-1. [Wordpress](https://homemadecoder.wordpress.com/2017/07/26/day-51/)
+1. [Wordpress][https://homemadecoder.wordpress.com/2017/07/26/day-51/)
 
 ### Day 50: July 24, 2017
 
@@ -131,7 +140,7 @@
 **Thoughts:** Had my first organic referral in my blog.
 
 **Link to work:**
-1. [Wordpress](https://homemadecoder.wordpress.com/2017/07/25/day-50/)
+1. [Wordpress][https://homemadecoder.wordpress.com/2017/07/25/day-50/)
 
 ### Day 49: July 23, 2017
 
@@ -140,7 +149,7 @@
 **Thoughts:** Feeling bad because of my hard drive
 
 **Link to work:**
-1. [Wordpress](https://homemadecoder.wordpress.com/2017/07/24/day-49/)
+1. [Wordpress][https://homemadecoder.wordpress.com/2017/07/24/day-49/)
 
 ### Day 48: July 22, 2017
 
@@ -149,7 +158,7 @@
 **Thoughts:** How do I speed up my learning?
 
 **Link to work:**
-1. [Wordpress](https://homemadecoder.wordpress.com/2017/07/23/day-48/)
+1. [Wordpress][https://homemadecoder.wordpress.com/2017/07/23/day-48/)
 
 ### Day 47: July 21, 2017
 
@@ -158,7 +167,7 @@
 **Thoughts:** I'm having fun with JS object classes and prototypes
 
 **Link to work:**
-1. [Wordpress](https://homemadecoder.wordpress.com/2017/07/22/day-47/)
+1. [Wordpress][https://homemadecoder.wordpress.com/2017/07/22/day-47/)
 
 ### Day 46: July 20, 2017
 
@@ -167,7 +176,7 @@
 **Thoughts:** Wish I had more friends to hangout with -.-
 
 **Link to work:**
-1. [Wordpress](https://homemadecoder.wordpress.com/2017/07/21/day-46/)
+1. [Wordpress][https://homemadecoder.wordpress.com/2017/07/21/day-46/)
 
 ### Day 45: July 18, 2017
 
@@ -176,7 +185,7 @@
 **Thoughts:** If only I had more time -.-
 
 **Link to work:**
-1. [Wordpress](https://homemadecoder.wordpress.com/2017/07/19/day-45/)
+1. [Wordpress][https://homemadecoder.wordpress.com/2017/07/19/day-45/)
 
 ### Day 44: July 17, 2017
 
@@ -185,7 +194,7 @@
 **Thoughts:** So far I'm loving vue :)
 
 **Link to work:**
-1. [Wordpress](https://homemadecoder.wordpress.com/2017/07/18/day-44/)
+1. [Wordpress][https://homemadecoder.wordpress.com/2017/07/18/day-44/)
 
 ### Day 43: July 16, 2017
 
@@ -194,7 +203,7 @@
 **Thoughts:** Excited to start the new courses I bought.
 
 **Link to work:**
-1. [Wordpress](https://homemadecoder.wordpress.com/2017/07/17/day-43/)
+1. [Wordpress][https://homemadecoder.wordpress.com/2017/07/17/day-43/)
 
 ### Day 42: July 15, 2017
 
@@ -203,7 +212,7 @@
 **Thoughts:** I hope my mind will save everything I've been learning about scopes lol if only I can cmd + s on my brain.
 
 **Link to work:**
-1. [Wordpress](https://homemadecoder.wordpress.com/2017/07/16/day-42/)
+1. [Wordpress][https://homemadecoder.wordpress.com/2017/07/16/day-42/)
 
 ### Day 41: July 14, 2017
 
@@ -212,7 +221,7 @@
 **Thoughts:** I'm not afraid of spiders. I just don't like them.
 
 **Link to work:**
-1. [Wordpress](https://homemadecoder.wordpress.com/2017/07/15/day-41/)
+1. [Wordpress][https://homemadecoder.wordpress.com/2017/07/15/day-41/)
 
 ### Day 40: July 13, 2017
 
@@ -221,7 +230,7 @@
 **Thoughts:** I wish I'll learn faster.
 
 **Link to work:**
-1. [Wordpress](https://homemadecoder.wordpress.com/2017/07/14/day-40/)
+1. [Wordpress][https://homemadecoder.wordpress.com/2017/07/14/day-40/)
 
 ### Day 39: July 12, 2017
 
@@ -230,7 +239,7 @@
 **Thoughts:** Body is tired but mind wants to learn more
 
 **Link to work:**
-1. [Wordpress](https://homemadecoder.wordpress.com/2017/07/13/day-39/)
+1. [Wordpress][https://homemadecoder.wordpress.com/2017/07/13/day-39/)
 
 ### Day 38: July 11, 2017
 
