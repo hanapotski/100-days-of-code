@@ -1,3 +1,13 @@
+### Day 66: August 11, 2017
+
+**Today's Progress**: Finished chapter 5 of Rails tutorial
+
+**Thoughts:** Why can't I find the error T.T
+
+**Link to work:**
+1. [Wordpress](https://homemadecoder.wordpress.com/2017/08/11/day-65/)
+
+
 ### Day 65: August 10, 2017
 
 **Today's Progress**: Learned how to add styles on my web app and use partials
