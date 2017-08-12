@@ -5,7 +5,7 @@
 **Thoughts:** Why can't I find the error T.T
 
 **Link to work:**
-1. [Wordpress](https://homemadecoder.wordpress.com/2017/08/11/day-65/)
+1. [Wordpress](https://homemadecoder.wordpress.com/2017/08/12/day-66/)
 
 
 ### Day 65: August 10, 2017
