@@ -1,3 +1,12 @@
+### Day 67: August 12, 2017
+
+**Today's Progress**: Data model, validations, and migrations  
+
+**Thoughts:** Have to double time
+
+**Link to work:**
+1. [Wordpress](https://homemadecoder.wordpress.com/2017/08/13/day-67/)
+
 ### Day 66: August 11, 2017
 
 **Today's Progress**: Finished chapter 5 of Rails tutorial
