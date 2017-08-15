@@ -1,6 +1,15 @@
+### Day 68: August 14, 2017
+
+**Today's Progress**: Signup page
+
+**Thoughts:** Wish I could do more
+
+**Link to work:**
+1. [Wordpress](https://homemadecoder.wordpress.com/2017/08/15/day-68/)
+
 ### Day 67: August 12, 2017
 
-**Today's Progress**: Data model, validations, and migrations  
+**Today's Progress**: Data model, validations, and migrations
 
 **Thoughts:** Have to double time
 
