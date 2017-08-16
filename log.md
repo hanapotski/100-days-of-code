@@ -1,3 +1,12 @@
+### Day 69: August 15, 2017
+
+**Today's Progress**: Still working on the sign up page
+
+**Thoughts:** Wish I'll be able to finish Rails soon and do the web dev course on udemy
+
+**Link to work:**
+1. [Wordpress](https://homemadecoder.wordpress.com/2017/08/16/day-69/)
+
 ### Day 68: August 14, 2017
 
 **Today's Progress**: Signup page
