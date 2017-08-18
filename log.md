@@ -1,3 +1,12 @@
+### Day 70: August 17, 2017
+
+**Today's Progress**: Finished chapter 7. Level 1 of tryPHP on codeschool
+
+**Thoughts:** Will be pausing the rails tutorial for a while and do codeschool starting tomorrow and over the weekend
+
+**Link to work:**
+1. [Wordpress](https://homemadecoder.wordpress.com/2017/08/18/day-70/)
+
 ### Day 69: August 15, 2017
 
 **Today's Progress**: Still working on the sign up page
