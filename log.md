@@ -1,3 +1,12 @@
+### Day 71: August 18, 2017
+
+**Today's Progress**: Finished Close Encounter with PHP at codeschool
+
+**Thoughts:** Enjoyed learning at codeschool
+
+**Link to work:**
+1. [Wordpress](https://homemadecoder.wordpress.com/2017/08/19/day-71/)
+
 ### Day 70: August 17, 2017
 
 **Today's Progress**: Finished chapter 7. Level 1 of tryPHP on codeschool
