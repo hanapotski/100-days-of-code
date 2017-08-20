@@ -1,3 +1,12 @@
+### Day 72: August 19, 2017
+
+**Today's Progress**: Checked out laravel course but decided to take the Rails course instead
+
+**Thoughts:** Wish I had more time
+
+**Link to work:**
+1. [Wordpress](https://homemadecoder.wordpress.com/2017/08/20/day-72/)
+
 ### Day 71: August 18, 2017
 
 **Today's Progress**: Finished Close Encounter with PHP at codeschool
