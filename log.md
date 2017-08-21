@@ -1,3 +1,12 @@
+### Day 73: August 20, 2017
+
+**Today's Progress**: Rails for zombies 2, checked out other courses on codeschool
+
+**Thoughts:** If only I can hike everyday
+
+**Link to work:**
+1. [Wordpress](https://homemadecoder.wordpress.com/2017/08/21/day-73/)
+
 ### Day 72: August 19, 2017
 
 **Today's Progress**: Checked out laravel course but decided to take the Rails course instead
