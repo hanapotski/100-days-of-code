@@ -1,3 +1,12 @@
+### Day 74: August 23, 2017
+
+**Today's Progress**: Rails tutorial chapter 8
+
+**Thoughts:** I'm back!
+
+**Link to work:**
+1. [Wordpress](https://homemadecoder.wordpress.com/2017/08/24/day-74/)
+
 ### Day 73: August 20, 2017
 
 **Today's Progress**: Rails for zombies 2, checked out other courses on codeschool
