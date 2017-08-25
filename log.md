@@ -1,3 +1,12 @@
+### Day 75: August 24, 2017
+
+**Today's Progress**: Still on chapter 8
+
+**Thoughts:** I'll finish this book no matter what
+
+**Link to work:**
+1. [Wordpress](https://homemadecoder.wordpress.com/2017/08/25/day-75/)
+
 ### Day 74: August 23, 2017
 
 **Today's Progress**: Rails tutorial chapter 8
