@@ -1,3 +1,12 @@
+### Day 76: August 28, 2017
+
+**Today's Progress**: Restarted Rails for Zombies
+
+**Thoughts:** Will finish this tutorial first before going back to the book
+
+**Link to work:**
+1. [Wordpress](https://homemadecoder.wordpress.com/2017/08/29/day-76/)
+
 ### Day 75: August 24, 2017
 
 **Today's Progress**: Still on chapter 8
