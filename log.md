@@ -1,3 +1,12 @@
+### Day 77: August 28, 2017
+
+**Today's Progress**: Fisnished chapter 4 of Rails for Zombies
+
+**Thoughts:** Life oh life
+
+**Link to work:**
+1. [Wordpress](https://homemadecoder.wordpress.com/2017/08/30/day-77/)
+
 ### Day 76: August 28, 2017
 
 **Today's Progress**: Restarted Rails for Zombies
