@@ -1,3 +1,12 @@
+### Day 79: August 31, 2017
+
+**Today's Progress**: Back on the Rails book
+
+**Thoughts:** Wish it'll be more interesting lol
+
+**Link to work:**
+1. [Wordpress](https://homemadecoder.wordpress.com/2017/09/01/day-79/)
+
 ### Day 78: August 30, 2017
 
 **Today's Progress**: Finally finished Rails for Zombies
