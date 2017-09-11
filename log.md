@@ -1,3 +1,12 @@
+### Day 80: September 10, 2017
+
+**Today's Progress**: Finished up to chapter 10 of Rails book. Went back to the Web dev bootcamp. Section 8, JavaScript basics
+
+**Thoughts:** I'm back.
+
+**Link to work:**
+1. [Wordpress](https://homemadecoder.wordpress.com/2017/09/11/day-80/)
+
 ### Day 79: August 31, 2017
 
 **Today's Progress**: Back on the Rails book
