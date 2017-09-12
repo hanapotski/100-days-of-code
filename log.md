@@ -1,3 +1,12 @@
+### Day 81: September 11, 2017
+
+**Today's Progress**: Done with section 8
+
+**Thoughts:** need to double time
+
+**Link to work:**
+1. [Wordpress](https://homemadecoder.wordpress.com/2017/09/12/day-81/)
+
 ### Day 80: September 10, 2017
 
 **Today's Progress**: Finished up to chapter 10 of Rails book. Went back to the Web dev bootcamp. Section 8, JavaScript basics
