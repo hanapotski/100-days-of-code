@@ -1,3 +1,12 @@
+### Day 82: September 12, 2017
+
+**Today's Progress**: Done with section 9
+
+**Thoughts:** will finish the review of basics tomorrow
+
+**Link to work:**
+1. [Wordpress](https://homemadecoder.wordpress.com/2017/09/13/day-82/)
+
 ### Day 81: September 11, 2017
 
 **Today's Progress**: Done with section 8
