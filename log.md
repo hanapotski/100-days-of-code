@@ -1,3 +1,12 @@
+### Day 83: September 13, 2017
+
+**Today's Progress**: Finished section 10 and half of section 11
+
+**Thoughts:** Wasn't able to finish the basics but was able to do a lot today
+
+**Link to work:**
+1. [Wordpress](https://homemadecoder.wordpress.com/2017/09/14/day-83/)
+
 ### Day 82: September 12, 2017
 
 **Today's Progress**: Done with section 9
