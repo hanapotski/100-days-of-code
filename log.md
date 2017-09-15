@@ -1,3 +1,12 @@
+### Day 84: September 14, 2017
+
+**Today's Progress**: Done with JavaScript basics review!
+
+**Thoughts:** wondering how many days it'll take me to finish until the backend part of the course
+
+**Link to work:**
+1. [Wordpress](https://homemadecoder.wordpress.com/2017/09/15/day-84/)
+
 ### Day 83: September 13, 2017
 
 **Today's Progress**: Finished section 10 and half of section 11
