@@ -1,3 +1,12 @@
+### Day 85: September 15, 2017
+
+**Today's Progress**: Finished section 13 and started section 14
+
+**Thoughts:** I understood the DOM better
+
+**Link to work:**
+1. [Wordpress](https://homemadecoder.wordpress.com/2017/09/16/day-85/)
+
 ### Day 84: September 14, 2017
 
 **Today's Progress**: Done with JavaScript basics review!
