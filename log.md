@@ -6,6 +6,7 @@
 
 **Link to work:**
 1. [Wordpress](https://homemadecoder.wordpress.com/2017/09/17/day-86/)
+2. [Github](https://hanapotski.github.io/mycolorgame/)
 
 ### Day 85: September 15, 2017
 
