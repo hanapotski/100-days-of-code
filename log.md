@@ -1,3 +1,12 @@
+### Day 86: September 16, 2017
+
+**Today's Progress**: Finished section 14 and 15. Made a color game app
+
+**Thoughts:** Wish I'm this excited to learn everyday :))
+
+**Link to work:**
+1. [Wordpress](https://homemadecoder.wordpress.com/2017/09/17/day-86/)
+
 ### Day 85: September 15, 2017
 
 **Today's Progress**: Finished section 13 and started section 14
