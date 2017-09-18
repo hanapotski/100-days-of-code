@@ -1,6 +1,16 @@
+### Day 87: September 17, 2017
+
+**Today's Progress**: Finished sections 16, 17 and 18. Made a todo list app
+
+**Thoughts:** Wish I'm this excited to learn everyday :))
+
+**Link to work:**
+1. [Wordpress](https://homemadecoder.wordpress.com/2017/09/18/day-87/)
+2. [Github](https://hanapotski.github.io/myTodoApp/)
+
 ### Day 86: September 16, 2017
 
-**Today's Progress**: Finished section 14 and 15. Made a color game app
+**Today's Progress**: Finished sections 14 and 15. Made a color game app
 
 **Thoughts:** Wish I'm this excited to learn everyday :))
 
