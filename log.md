@@ -1,3 +1,13 @@
+### Day 88: September 18, 2017
+
+**Today's Progress**: Finished sections 19 and 20. Did my Patatap clone
+
+**Thoughts:** Backend here I come!
+
+**Link to work:**
+1. [Wordpress](https://homemadecoder.wordpress.com/2017/09/19/day-88/)
+2. [Github](https://hanapotski.github.io/myPatatap/)
+
 ### Day 87: September 17, 2017
 
 **Today's Progress**: Finished sections 16, 17 and 18. Made a todo list app
