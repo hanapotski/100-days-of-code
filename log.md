@@ -1,5 +1,15 @@
 ### Day 88: September 18, 2017
 
+**Today's Progress**: Finished sections 21, 22 and 23
+
+**Thoughts:** I'm liking backend better than front-end
+
+**Link to work:**
+1. [Wordpress](https://homemadecoder.wordpress.com/2017/09/20/day-89/)
+
+
+### Day 88: September 18, 2017
+
 **Today's Progress**: Finished sections 19 and 20. Did my Patatap clone
 
 **Thoughts:** Backend here I come!
