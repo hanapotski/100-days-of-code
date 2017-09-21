@@ -1,4 +1,13 @@
-### Day 88: September 18, 2017
+### Day 90: September 20, 2017
+
+**Today's Progress**: Finished section 24 and working on section 25
+
+**Thoughts:** Excited to learn more backend tech :)
+
+**Link to work:**
+1. [Wordpress](https://homemadecoder.wordpress.com/2017/09/20/day-89/)
+
+### Day 89: September 19, 2017
 
 **Today's Progress**: Finished sections 21, 22 and 23
 
