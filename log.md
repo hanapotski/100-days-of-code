@@ -1,3 +1,12 @@
+### Day 100: September 21, 2017
+
+**Today's Progress**: Finished sections 25, 26, and 27. Learned more about APIs, routing, and databases
+
+**Thoughts:** Wondering what I should learn next
+
+**Link to work:**
+1. [Wordpress](https://homemadecoder.wordpress.com/2017/09/23/day-91/)
+
 ### Day 90: September 20, 2017
 
 **Today's Progress**: Finished section 24 and working on section 25
