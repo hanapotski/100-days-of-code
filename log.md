@@ -1,4 +1,13 @@
-### Day 100: September 21, 2017
+### Day 92: September 23, 2017
+
+**Today's Progress**: Finished sections 28 and 29. Learned about RESTful routing and semantic ui
+
+**Thoughts:** Will do the vue course next
+
+**Link to work:**
+1. [Wordpress](https://homemadecoder.wordpress.com/2017/09/24/day-92/)
+
+### Day 91: September 22, 2017
 
 **Today's Progress**: Finished sections 25, 26, and 27. Learned more about APIs, routing, and databases
 
