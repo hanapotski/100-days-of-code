@@ -1,3 +1,12 @@
+### Day 93: September 24, 2017
+
+**Today's Progress**: Finished section 30. Learned about data associations, embedded data, object references and module.exports
+
+**Thoughts:** Hoping to find the perfect coding buddy
+
+**Link to work:**
+1. [Wordpress](https://homemadecoder.wordpress.com/2017/09/25/day-93/)
+
 ### Day 92: September 23, 2017
 
 **Today's Progress**: Finished sections 28 and 29. Learned about RESTful routing and semantic ui
