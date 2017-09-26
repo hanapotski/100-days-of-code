@@ -1,3 +1,12 @@
+### Day 94: September 25, 2017
+
+**Today's Progress**: Finished section 31
+
+**Thoughts:** I'm going back to FCC and get my frontend cert
+
+**Link to work:**
+1. [Wordpress](https://homemadecoder.wordpress.com/2017/09/25/day-93/)
+
 ### Day 93: September 24, 2017
 
 **Today's Progress**: Finished section 30. Learned about data associations, embedded data, object references and module.exports
