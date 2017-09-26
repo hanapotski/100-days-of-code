@@ -5,7 +5,7 @@
 **Thoughts:** I'm going back to FCC and get my frontend cert
 
 **Link to work:**
-1. [Wordpress](https://homemadecoder.wordpress.com/2017/09/25/day-93/)
+1. [Wordpress](https://homemadecoder.wordpress.com/2017/09/26/day-94/)
 
 ### Day 93: September 24, 2017
 
