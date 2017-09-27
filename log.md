@@ -1,3 +1,12 @@
+### Day 95: September 26, 2017
+
+**Today's Progress**: Did some basic algorithm challenges on FCC. Read about Regex
+
+**Thoughts:** I might dream about JS algorithms tonight lol
+
+**Link to work:**
+1. [Wordpress](https://homemadecoder.wordpress.com/2017/09/27/day-95/)
+
 ### Day 94: September 25, 2017
 
 **Today's Progress**: Finished section 31
