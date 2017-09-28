@@ -1,3 +1,12 @@
+### Day 95: September 27, 2017
+
+**Today's Progress**: JSON, APIs and Ajax section in FCC. Started working on random proverb project
+
+**Thoughts:** API when will you be my friend?-.-
+
+**Link to work:**
+1. [Wordpress](https://homemadecoder.wordpress.com/2017/09/28/day-96/)
+
 ### Day 95: September 26, 2017
 
 **Today's Progress**: Did some basic algorithm challenges on FCC. Read about Regex
