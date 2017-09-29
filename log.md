@@ -1,3 +1,13 @@
+### Day 96: September 28, 2017
+
+**Today's Progress**: Worked on random verse generator. Tried using semantic ui. Added a twitter share button :)
+
+**Thoughts:** API when will you be my friend?-.-
+
+**Link to work:**
+1. [Wordpress](https://homemadecoder.wordpress.com/2017/09/29/day-97/)
+1. [Github](https://hanapotski.github.io/randomVerseApp/)
+
 ### Day 95: September 27, 2017
 
 **Today's Progress**: JSON, APIs and Ajax section in FCC. Started working on random proverb project
