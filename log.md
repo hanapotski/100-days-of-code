@@ -1,4 +1,13 @@
-### Day 96: September 28, 2017
+### Day 98: September 28, 2017
+
+**Today's Progress**: Flexbox day
+
+**Thoughts:** Still have to learn how to use it
+
+**Link to work:**
+1. [Wordpress](https://homemadecoder.wordpress.com/2017/09/30/day-98/)
+
+### Day 97: September 28, 2017
 
 **Today's Progress**: Worked on random verse generator. Tried using semantic ui. Added a twitter share button :)
 
@@ -6,9 +15,9 @@
 
 **Link to work:**
 1. [Wordpress](https://homemadecoder.wordpress.com/2017/09/29/day-97/)
-1. [Github](https://hanapotski.github.io/randomVerseApp/)
+2. [Github](https://hanapotski.github.io/randomVerseApp/)
 
-### Day 95: September 27, 2017
+### Day 96: September 27, 2017
 
 **Today's Progress**: JSON, APIs and Ajax section in FCC. Started working on random proverb project
 
