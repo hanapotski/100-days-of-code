@@ -5,7 +5,7 @@
 **Thoughts:** Last day tomorrow. Excited to learn more!
 
 **Link to work:**
-1. [Wordpress](https://homemadecoder.wordpress.com/2017/09/30/day-98/)
+1. [Wordpress](https://homemadecoder.wordpress.com/2017/10/01/day-99/)
 
 ### Day 98: September 29, 2017
 
