@@ -1,4 +1,13 @@
-### Day 98: September 28, 2017
+### Day 99: September 30, 2017
+
+**Today's Progress**: Finished what the flexbox tutorial. Pair programming, algo challenge and simple api
+
+**Thoughts:** Last day tomorrow. Excited to learn more!
+
+**Link to work:**
+1. [Wordpress](https://homemadecoder.wordpress.com/2017/09/30/day-98/)
+
+### Day 98: September 29, 2017
 
 **Today's Progress**: Flexbox day
 
