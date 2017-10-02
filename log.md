@@ -20,7 +20,7 @@
 
 **Today's Progress**: Worked on random verse generator. Tried using semantic ui. Added a twitter share button :)
 
-**Thoughts:** API when will you be my friend?-.-
+**Thoughts:** Wished I can use an API
 
 **Link to work:**
 1. [Wordpress](https://homemadecoder.wordpress.com/2017/09/29/day-97/)
