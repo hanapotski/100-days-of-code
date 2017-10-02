@@ -1,3 +1,12 @@
+### Day 100: October 1, 2017
+
+**Today's Progress**: Evaluated my 100 days of code journey. Wrote a long blog post lol
+
+**Thoughts:** My coding journey is just starting :)
+
+**Link to work:**
+1. [Wordpress](https://homemadecoder.wordpress.com/2017/10/02/day-100/)
+
 ### Day 99: September 30, 2017
 
 **Today's Progress**: Finished what the flexbox tutorial. Pair programming, algo challenge and simple api
