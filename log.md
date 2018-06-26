@@ -5,7 +5,8 @@
 **Thoughts:** My coding journey is just starting :)
 
 **Link to work:**
-1. [Wordpress](https://homemadecoder.wordpress.com/2017/10/02/day-100/)
+
+1.  [Wordpress](https://homemadecoder.wordpress.com/2017/10/02/day-100/)
 
 ### Day 99: September 30, 2017
 
@@ -14,7 +15,8 @@
 **Thoughts:** Last day tomorrow. Excited to learn more!
 
 **Link to work:**
-1. [Wordpress](https://homemadecoder.wordpress.com/2017/10/01/day-99/)
+
+1.  [Wordpress](https://homemadecoder.wordpress.com/2017/10/01/day-99/)
 
 ### Day 98: September 29, 2017
 
@@ -23,7 +25,8 @@
 **Thoughts:** Still have to learn how to use it
 
 **Link to work:**
-1. [Wordpress](https://homemadecoder.wordpress.com/2017/09/30/day-98/)
+
+1.  [Wordpress](https://homemadecoder.wordpress.com/2017/09/30/day-98/)
 
 ### Day 97: September 28, 2017
 
@@ -32,8 +35,9 @@
 **Thoughts:** Wished I can use an API
 
 **Link to work:**
-1. [Wordpress](https://homemadecoder.wordpress.com/2017/09/29/day-97/)
-2. [Github](https://hanapotski.github.io/randomVerseApp/)
+
+1.  [Wordpress](https://homemadecoder.wordpress.com/2017/09/29/day-97/)
+2.  [Github](https://homemadecoder.github.io/randomverseapp/)
 
 ### Day 96: September 27, 2017
 
@@ -42,7 +46,8 @@
 **Thoughts:** API when will you be my friend?-.-
 
 **Link to work:**
-1. [Wordpress](https://homemadecoder.wordpress.com/2017/09/28/day-96/)
+
+1.  [Wordpress](https://homemadecoder.wordpress.com/2017/09/28/day-96/)
 
 ### Day 95: September 26, 2017
 
@@ -51,7 +56,8 @@
 **Thoughts:** I might dream about JS algorithms tonight lol
 
 **Link to work:**
-1. [Wordpress](https://homemadecoder.wordpress.com/2017/09/27/day-95/)
+
+1.  [Wordpress](https://homemadecoder.wordpress.com/2017/09/27/day-95/)
 
 ### Day 94: September 25, 2017
 
@@ -60,7 +66,8 @@
 **Thoughts:** I'm going back to FCC and get my frontend cert
 
 **Link to work:**
-1. [Wordpress](https://homemadecoder.wordpress.com/2017/09/26/day-94/)
+
+1.  [Wordpress](https://homemadecoder.wordpress.com/2017/09/26/day-94/)
 
 ### Day 93: September 24, 2017
 
@@ -69,7 +76,8 @@
 **Thoughts:** Hoping to find the perfect coding buddy
 
 **Link to work:**
-1. [Wordpress](https://homemadecoder.wordpress.com/2017/09/25/day-93/)
+
+1.  [Wordpress](https://homemadecoder.wordpress.com/2017/09/25/day-93/)
 
 ### Day 92: September 23, 2017
 
@@ -78,7 +86,8 @@
 **Thoughts:** Will do the vue course next
 
 **Link to work:**
-1. [Wordpress](https://homemadecoder.wordpress.com/2017/09/24/day-92/)
+
+1.  [Wordpress](https://homemadecoder.wordpress.com/2017/09/24/day-92/)
 
 ### Day 91: September 22, 2017
 
@@ -87,7 +96,8 @@
 **Thoughts:** Wondering what I should learn next
 
 **Link to work:**
-1. [Wordpress](https://homemadecoder.wordpress.com/2017/09/23/day-91/)
+
+1.  [Wordpress](https://homemadecoder.wordpress.com/2017/09/23/day-91/)
 
 ### Day 90: September 20, 2017
 
@@ -96,7 +106,8 @@
 **Thoughts:** Excited to learn more backend tech :)
 
 **Link to work:**
-1. [Wordpress](https://homemadecoder.wordpress.com/2017/09/21/day-90/)
+
+1.  [Wordpress](https://homemadecoder.wordpress.com/2017/09/21/day-90/)
 
 ### Day 89: September 19, 2017
 
@@ -105,8 +116,8 @@
 **Thoughts:** I'm liking backend better than front-end
 
 **Link to work:**
-1. [Wordpress](https://homemadecoder.wordpress.com/2017/09/20/day-89/)
 
+1.  [Wordpress](https://homemadecoder.wordpress.com/2017/09/20/day-89/)
 
 ### Day 88: September 18, 2017
 
@@ -115,8 +126,9 @@
 **Thoughts:** Backend here I come!
 
 **Link to work:**
-1. [Wordpress](https://homemadecoder.wordpress.com/2017/09/19/day-88/)
-2. [Github](https://hanapotski.github.io/myPatatap/)
+
+1.  [Wordpress](https://homemadecoder.wordpress.com/2017/09/19/day-88/)
+2.  [Github](https://homemadecoder.github.io/mypatatap/)
 
 ### Day 87: September 17, 2017
 
@@ -125,8 +137,9 @@
 **Thoughts:** Wish I'm this excited to learn everyday :))
 
 **Link to work:**
-1. [Wordpress](https://homemadecoder.wordpress.com/2017/09/18/day-87/)
-2. [Github](https://hanapotski.github.io/myTodoApp/)
+
+1.  [Wordpress](https://homemadecoder.wordpress.com/2017/09/18/day-87/)
+2.  [Github](https://homemadecoder.github.io/mytodolist/)
 
 ### Day 86: September 16, 2017
 
@@ -135,8 +148,9 @@
 **Thoughts:** Wish I'm this excited to learn everyday :))
 
 **Link to work:**
-1. [Wordpress](https://homemadecoder.wordpress.com/2017/09/17/day-86/)
-2. [Github](https://hanapotski.github.io/mycolorgame/)
+
+1.  [Wordpress](https://homemadecoder.wordpress.com/2017/09/17/day-86/)
+2.  [Github](https://homemadecoder.github.io/mycolorgame/)
 
 ### Day 85: September 15, 2017
 
@@ -145,7 +159,8 @@
 **Thoughts:** I understood the DOM better
 
 **Link to work:**
-1. [Wordpress](https://homemadecoder.wordpress.com/2017/09/16/day-85/)
+
+1.  [Wordpress](https://homemadecoder.wordpress.com/2017/09/16/day-85/)
 
 ### Day 84: September 14, 2017
 
@@ -154,7 +169,8 @@
 **Thoughts:** wondering how many days it'll take me to finish until the backend part of the course
 
 **Link to work:**
-1. [Wordpress](https://homemadecoder.wordpress.com/2017/09/15/day-84/)
+
+1.  [Wordpress](https://homemadecoder.wordpress.com/2017/09/15/day-84/)
 
 ### Day 83: September 13, 2017
 
@@ -163,7 +179,8 @@
 **Thoughts:** Wasn't able to finish the basics but was able to do a lot today
 
 **Link to work:**
-1. [Wordpress](https://homemadecoder.wordpress.com/2017/09/14/day-83/)
+
+1.  [Wordpress](https://homemadecoder.wordpress.com/2017/09/14/day-83/)
 
 ### Day 82: September 12, 2017
 
@@ -172,7 +189,8 @@
 **Thoughts:** will finish the review of basics tomorrow
 
 **Link to work:**
-1. [Wordpress](https://homemadecoder.wordpress.com/2017/09/13/day-82/)
+
+1.  [Wordpress](https://homemadecoder.wordpress.com/2017/09/13/day-82/)
 
 ### Day 81: September 11, 2017
 
@@ -181,7 +199,8 @@
 **Thoughts:** need to double time
 
 **Link to work:**
-1. [Wordpress](https://homemadecoder.wordpress.com/2017/09/12/day-81/)
+
+1.  [Wordpress](https://homemadecoder.wordpress.com/2017/09/12/day-81/)
 
 ### Day 80: September 10, 2017
 
@@ -190,7 +209,8 @@
 **Thoughts:** I'm back.
 
 **Link to work:**
-1. [Wordpress](https://homemadecoder.wordpress.com/2017/09/11/day-80/)
+
+1.  [Wordpress](https://homemadecoder.wordpress.com/2017/09/11/day-80/)
 
 ### Day 79: August 31, 2017
 
@@ -199,7 +219,8 @@
 **Thoughts:** Wish it'll be more interesting lol
 
 **Link to work:**
-1. [Wordpress](https://homemadecoder.wordpress.com/2017/09/01/day-79/)
+
+1.  [Wordpress](https://homemadecoder.wordpress.com/2017/09/01/day-79/)
 
 ### Day 78: August 30, 2017
 
@@ -208,7 +229,8 @@
 **Thoughts:** I need more zombies...
 
 **Link to work:**
-1. [Wordpress](https://homemadecoder.wordpress.com/2017/08/31/day-78/)
+
+1.  [Wordpress](https://homemadecoder.wordpress.com/2017/08/31/day-78/)
 
 ### Day 77: August 29, 2017
 
@@ -217,7 +239,8 @@
 **Thoughts:** Life oh life
 
 **Link to work:**
-1. [Wordpress](https://homemadecoder.wordpress.com/2017/08/30/day-77/)
+
+1.  [Wordpress](https://homemadecoder.wordpress.com/2017/08/30/day-77/)
 
 ### Day 76: August 28, 2017
 
@@ -226,7 +249,8 @@
 **Thoughts:** Will finish this tutorial first before going back to the book
 
 **Link to work:**
-1. [Wordpress](https://homemadecoder.wordpress.com/2017/08/29/day-76/)
+
+1.  [Wordpress](https://homemadecoder.wordpress.com/2017/08/29/day-76/)
 
 ### Day 75: August 24, 2017
 
@@ -235,7 +259,8 @@
 **Thoughts:** I'll finish this book no matter what
 
 **Link to work:**
-1. [Wordpress](https://homemadecoder.wordpress.com/2017/08/25/day-75/)
+
+1.  [Wordpress](https://homemadecoder.wordpress.com/2017/08/25/day-75/)
 
 ### Day 74: August 23, 2017
 
@@ -244,7 +269,8 @@
 **Thoughts:** I'm back!
 
 **Link to work:**
-1. [Wordpress](https://homemadecoder.wordpress.com/2017/08/24/day-74/)
+
+1.  [Wordpress](https://homemadecoder.wordpress.com/2017/08/24/day-74/)
 
 ### Day 73: August 20, 2017
 
@@ -253,7 +279,8 @@
 **Thoughts:** If only I can hike everyday
 
 **Link to work:**
-1. [Wordpress](https://homemadecoder.wordpress.com/2017/08/21/day-73/)
+
+1.  [Wordpress](https://homemadecoder.wordpress.com/2017/08/21/day-73/)
 
 ### Day 72: August 19, 2017
 
@@ -262,7 +289,8 @@
 **Thoughts:** Wish I had more time
 
 **Link to work:**
-1. [Wordpress](https://homemadecoder.wordpress.com/2017/08/20/day-72/)
+
+1.  [Wordpress](https://homemadecoder.wordpress.com/2017/08/20/day-72/)
 
 ### Day 71: August 18, 2017
 
@@ -271,7 +299,8 @@
 **Thoughts:** Enjoyed learning at codeschool
 
 **Link to work:**
-1. [Wordpress](https://homemadecoder.wordpress.com/2017/08/19/day-71/)
+
+1.  [Wordpress](https://homemadecoder.wordpress.com/2017/08/19/day-71/)
 
 ### Day 70: August 17, 2017
 
@@ -280,7 +309,8 @@
 **Thoughts:** Will be pausing the rails tutorial for a while and do codeschool starting tomorrow and over the weekend
 
 **Link to work:**
-1. [Wordpress](https://homemadecoder.wordpress.com/2017/08/18/day-70/)
+
+1.  [Wordpress](https://homemadecoder.wordpress.com/2017/08/18/day-70/)
 
 ### Day 69: August 15, 2017
 
@@ -289,7 +319,8 @@
 **Thoughts:** Wish I'll be able to finish Rails soon and do the web dev course on udemy
 
 **Link to work:**
-1. [Wordpress](https://homemadecoder.wordpress.com/2017/08/16/day-69/)
+
+1.  [Wordpress](https://homemadecoder.wordpress.com/2017/08/16/day-69/)
 
 ### Day 68: August 14, 2017
 
@@ -298,7 +329,8 @@
 **Thoughts:** Wish I could do more
 
 **Link to work:**
-1. [Wordpress](https://homemadecoder.wordpress.com/2017/08/15/day-68/)
+
+1.  [Wordpress](https://homemadecoder.wordpress.com/2017/08/15/day-68/)
 
 ### Day 67: August 12, 2017
 
@@ -307,7 +339,8 @@
 **Thoughts:** Have to double time
 
 **Link to work:**
-1. [Wordpress](https://homemadecoder.wordpress.com/2017/08/13/day-67/)
+
+1.  [Wordpress](https://homemadecoder.wordpress.com/2017/08/13/day-67/)
 
 ### Day 66: August 11, 2017
 
@@ -316,8 +349,8 @@
 **Thoughts:** Why can't I find the error T.T
 
 **Link to work:**
-1. [Wordpress](https://homemadecoder.wordpress.com/2017/08/12/day-66/)
 
+1.  [Wordpress](https://homemadecoder.wordpress.com/2017/08/12/day-66/)
 
 ### Day 65: August 10, 2017
 
@@ -326,7 +359,8 @@
 **Thoughts:** My heart is full :)
 
 **Link to work:**
-1. [Wordpress](https://homemadecoder.wordpress.com/2017/08/11/day-65/)
+
+1.  [Wordpress](https://homemadecoder.wordpress.com/2017/08/11/day-65/)
 
 ### Day 64: August 9, 2017
 
@@ -335,7 +369,8 @@
 **Thoughts:** Wish I can do faster -.-
 
 **Link to work:**
-1. [Wordpress](https://homemadecoder.wordpress.com/2017/08/10/day-64/)
+
+1.  [Wordpress](https://homemadecoder.wordpress.com/2017/08/10/day-64/)
 
 ### Day 63: August 8, 2017
 
@@ -344,7 +379,8 @@
 **Thoughts:** I think Vim would be fun to learn
 
 **Link to work:**
-1. [Wordpress](https://homemadecoder.wordpress.com/2017/08/09/day-63/)
+
+1.  [Wordpress](https://homemadecoder.wordpress.com/2017/08/09/day-63/)
 
 ### Day 62: August 7, 2017
 
@@ -353,7 +389,8 @@
 **Thoughts:** So much to learn
 
 **Link to work:**
-1. [Wordpress](https://homemadecoder.wordpress.com/2017/08/08/day-62/)
+
+1.  [Wordpress](https://homemadecoder.wordpress.com/2017/08/08/day-62/)
 
 ### Day 61: August 5, 2017
 
@@ -362,7 +399,8 @@
 **Thoughts:** So tired -.-
 
 **Link to work:**
-1. [Wordpress](https://homemadecoder.wordpress.com/2017/08/06/day-61/)
+
+1.  [Wordpress](https://homemadecoder.wordpress.com/2017/08/06/day-61/)
 
 ### Day 60: August 4, 2017
 
@@ -371,7 +409,8 @@
 **Thoughts:** Looking forward for more fun apps
 
 **Link to work:**
-1. [Wordpress](https://homemadecoder.wordpress.com/2017/08/05/day-60/)
+
+1.  [Wordpress](https://homemadecoder.wordpress.com/2017/08/05/day-60/)
 
 ### Day 59: August 3, 2017
 
@@ -380,7 +419,8 @@
 **Thoughts:** I wonder how long it'll take me to finish the Rails tutorial
 
 **Link to work:**
-1. [Wordpress](https://homemadecoder.wordpress.com/2017/08/04/day-59/)
+
+1.  [Wordpress](https://homemadecoder.wordpress.com/2017/08/04/day-59/)
 
 ### Day 58: August 2, 2017
 
@@ -389,7 +429,8 @@
 **Thoughts:** Rails! Here I come!:)
 
 **Link to work:**
-1. [Wordpress](https://homemadecoder.wordpress.com/2017/08/03/day-58/)
+
+1.  [Wordpress](https://homemadecoder.wordpress.com/2017/08/03/day-58/)
 
 ### Day 57: August 1, 2017
 
@@ -398,7 +439,8 @@
 **Thoughts:** Hustle!
 
 **Link to work:**
-1. [Wordpress](https://homemadecoder.wordpress.com/2017/08/02/day-57/)
+
+1.  [Wordpress](https://homemadecoder.wordpress.com/2017/08/02/day-57/)
 
 ### Day 56: July 31, 2017
 
@@ -407,7 +449,8 @@
 **Thoughts:** I like how Ruby is easier to understand than JavaScript
 
 **Link to work:**
-1. [Wordpress](https://homemadecoder.wordpress.com/2017/08/01/day-56/)
+
+1.  [Wordpress](https://homemadecoder.wordpress.com/2017/08/01/day-56/)
 
 ### Day 55: July 29, 2017
 
@@ -416,7 +459,8 @@
 **Thoughts:** I almost forgot to update
 
 **Link to work:**
-1. [Wordpress](https://homemadecoder.wordpress.com/2017/07/30/day-55/)
+
+1.  [Wordpress](https://homemadecoder.wordpress.com/2017/07/30/day-55/)
 
 ### Day 54: July 28, 2017
 
@@ -425,7 +469,8 @@
 **Thoughts:** Finally have a real project :)
 
 **Link to work:**
-1. [Wordpress](https://homemadecoder.wordpress.com/2017/07/29/day-54/)
+
+1.  [Wordpress](https://homemadecoder.wordpress.com/2017/07/29/day-54/)
 
 ### Day 53: July 27, 2017
 
@@ -434,7 +479,8 @@
 **Thoughts:** Excited to learn Ruby :)
 
 **Link to work:**
-1. [Wordpress](https://homemadecoder.wordpress.com/2017/07/28/day-53/)
+
+1.  [Wordpress](https://homemadecoder.wordpress.com/2017/07/28/day-53/)
 
 ### Day 52: July 26, 2017
 
@@ -443,7 +489,8 @@
 **Thoughts:** Wish I can do more in a day
 
 **Link to work:**
-1. [Wordpress](https://homemadecoder.wordpress.com/2017/07/27/day-52/)
+
+1.  [Wordpress](https://homemadecoder.wordpress.com/2017/07/27/day-52/)
 
 ### Day 51: July 25, 2017
 
@@ -452,7 +499,8 @@
 **Thoughts:** Can't wait to learn about APIs and some backend code
 
 **Link to work:**
-1. [Wordpress](https://homemadecoder.wordpress.com/2017/07/26/day-51/)
+
+1.  [Wordpress](https://homemadecoder.wordpress.com/2017/07/26/day-51/)
 
 ### Day 50: July 24, 2017
 
@@ -461,7 +509,8 @@
 **Thoughts:** Had my first organic referral in my blog.
 
 **Link to work:**
-1. [Wordpress](https://homemadecoder.wordpress.com/2017/07/25/day-50/)
+
+1.  [Wordpress](https://homemadecoder.wordpress.com/2017/07/25/day-50/)
 
 ### Day 49: July 23, 2017
 
@@ -470,7 +519,8 @@
 **Thoughts:** Feeling bad because of my hard drive
 
 **Link to work:**
-1. [Wordpress](https://homemadecoder.wordpress.com/2017/07/24/day-49/)
+
+1.  [Wordpress](https://homemadecoder.wordpress.com/2017/07/24/day-49/)
 
 ### Day 48: July 22, 2017
 
@@ -479,7 +529,8 @@
 **Thoughts:** How do I speed up my learning?
 
 **Link to work:**
-1. [Wordpress](https://homemadecoder.wordpress.com/2017/07/23/day-48/)
+
+1.  [Wordpress](https://homemadecoder.wordpress.com/2017/07/23/day-48/)
 
 ### Day 47: July 21, 2017
 
@@ -488,7 +539,8 @@
 **Thoughts:** I'm having fun with JS object classes and prototypes
 
 **Link to work:**
-1. [Wordpress](https://homemadecoder.wordpress.com/2017/07/22/day-47/)
+
+1.  [Wordpress](https://homemadecoder.wordpress.com/2017/07/22/day-47/)
 
 ### Day 46: July 20, 2017
 
@@ -497,7 +549,8 @@
 **Thoughts:** Wish I had more friends to hangout with -.-
 
 **Link to work:**
-1. [Wordpress](https://homemadecoder.wordpress.com/2017/07/21/day-46/)
+
+1.  [Wordpress](https://homemadecoder.wordpress.com/2017/07/21/day-46/)
 
 ### Day 45: July 18, 2017
 
@@ -506,7 +559,8 @@
 **Thoughts:** If only I had more time -.-
 
 **Link to work:**
-1. [Wordpress](https://homemadecoder.wordpress.com/2017/07/19/day-45/)
+
+1.  [Wordpress](https://homemadecoder.wordpress.com/2017/07/19/day-45/)
 
 ### Day 44: July 17, 2017
 
@@ -515,7 +569,8 @@
 **Thoughts:** So far I'm loving vue :)
 
 **Link to work:**
-1. [Wordpress](https://homemadecoder.wordpress.com/2017/07/18/day-44/)
+
+1.  [Wordpress](https://homemadecoder.wordpress.com/2017/07/18/day-44/)
 
 ### Day 43: July 16, 2017
 
@@ -524,7 +579,8 @@
 **Thoughts:** Excited to start the new courses I bought.
 
 **Link to work:**
-1. [Wordpress](https://homemadecoder.wordpress.com/2017/07/17/day-43/)
+
+1.  [Wordpress](https://homemadecoder.wordpress.com/2017/07/17/day-43/)
 
 ### Day 42: July 15, 2017
 
@@ -533,7 +589,8 @@
 **Thoughts:** I hope my mind will save everything I've been learning about scopes lol if only I can cmd + s on my brain.
 
 **Link to work:**
-1. [Wordpress](https://homemadecoder.wordpress.com/2017/07/16/day-42/)
+
+1.  [Wordpress](https://homemadecoder.wordpress.com/2017/07/16/day-42/)
 
 ### Day 41: July 14, 2017
 
@@ -542,7 +599,8 @@
 **Thoughts:** I'm not afraid of spiders. I just don't like them.
 
 **Link to work:**
-1. [Wordpress](https://homemadecoder.wordpress.com/2017/07/15/day-41/)
+
+1.  [Wordpress](https://homemadecoder.wordpress.com/2017/07/15/day-41/)
 
 ### Day 40: July 13, 2017
 
@@ -551,7 +609,8 @@
 **Thoughts:** I wish I'll learn faster.
 
 **Link to work:**
-1. [Wordpress](https://homemadecoder.wordpress.com/2017/07/14/day-40/)
+
+1.  [Wordpress](https://homemadecoder.wordpress.com/2017/07/14/day-40/)
 
 ### Day 39: July 12, 2017
 
@@ -560,7 +619,8 @@
 **Thoughts:** Body is tired but mind wants to learn more
 
 **Link to work:**
-1. [Wordpress](https://homemadecoder.wordpress.com/2017/07/13/day-39/)
+
+1.  [Wordpress](https://homemadecoder.wordpress.com/2017/07/13/day-39/)
 
 ### Day 38: July 11, 2017
 
@@ -569,7 +629,8 @@
 **Thoughts:** Hope to fill my portfolio with real websites soon.
 
 **Link to work:**
-1. [Wordpress](https://homemadecoder.wordpress.com/2017/07/12/day-38/)
+
+1.  [Wordpress](https://homemadecoder.wordpress.com/2017/07/12/day-38/)
 
 ### Day 37: July 10, 2017
 
@@ -578,7 +639,8 @@
 **Thoughts:** Excited to make a real website project.
 
 **Link to work:**
-1. [Wordpress](https://homemadecoder.wordpress.com/2017/07/11/day-37/)
+
+1.  [Wordpress](https://homemadecoder.wordpress.com/2017/07/11/day-37/)
 
 ### Day 36: July 9, 2017
 
@@ -587,7 +649,8 @@
 **Thoughts:** Will try to finish the 1st book tomorrow.
 
 **Link to work:**
-1. [Wordpress](https://homemadecoder.wordpress.com/2017/07/10/day-36/)
+
+1.  [Wordpress](https://homemadecoder.wordpress.com/2017/07/10/day-36/)
 
 ### Day 35: July 8, 2017
 
@@ -596,7 +659,8 @@
 **Thoughts:** Happy to get back on my study routine.
 
 **Link to work:**
-1. [Wordpress](https://homemadecoder.wordpress.com/2017/07/09/day-35/)
+
+1.  [Wordpress](https://homemadecoder.wordpress.com/2017/07/09/day-35/)
 
 ### Day 34: July 7, 2017
 
@@ -605,7 +669,8 @@
 **Thoughts:** Hope next week will be more productive.
 
 **Link to work:**
-1. [Wordpress](https://homemadecoder.wordpress.com/2017/07/08/day-34/)
+
+1.  [Wordpress](https://homemadecoder.wordpress.com/2017/07/08/day-34/)
 
 ### Day 33: July 6, 2017
 
@@ -614,7 +679,8 @@
 **Thoughts:** So tired. Need to sleep.
 
 **Link to work:**
-1. [Wordpress](https://homemadecoder.wordpress.com/2017/07/07/day-33/)
+
+1.  [Wordpress](https://homemadecoder.wordpress.com/2017/07/07/day-33/)
 
 ### Day 32: July 5, 2017
 
@@ -623,8 +689,9 @@
 **Thoughts:** Contemplated whether I should pursue an associate's degree in computer science and concluded I don't need one. Instead of daily css image, I'll do the JavaScript30 challenge and stick with learning more about JavaScript until I get comfortable with it.
 
 **Link to work:**
-1. [Codepen](https://codepen.io/Hanapotski/full/gRzKar/)
-2. [Wordpress](https://homemadecoder.wordpress.com/2017/07/06/day-32/)
+
+1.  [Codepen](https://codepen.io/Hanapotski/full/gRzKar/)
+2.  [Wordpress](https://homemadecoder.wordpress.com/2017/07/06/day-32/)
 
 ### Day 31: July 4, 2017
 
@@ -633,9 +700,9 @@
 **Thoughts:** 1 last mini project then I'll try to do the daily css image
 
 **Link to work:**
-1. [Codepen](https://codepen.io/Hanapotski/full/gRzKar/)
-2. [Wordpress](https://homemadecoder.wordpress.com/2017/07/05/day-31/)
 
+1.  [Codepen](https://codepen.io/Hanapotski/full/gRzKar/)
+2.  [Wordpress](https://homemadecoder.wordpress.com/2017/07/05/day-31/)
 
 ### Day 30: July 3, 2017
 
@@ -644,7 +711,8 @@
 **Thoughts:** My mind is on a holiday. Will work on my last 2 mini projects tomorrow.
 
 **Link to work:**
-1. [Wordpress](https://homemadecoder.wordpress.com/2017/07/04/day-30/)
+
+1.  [Wordpress](https://homemadecoder.wordpress.com/2017/07/04/day-30/)
 
 ### Day 29: July 2, 2017
 
@@ -653,8 +721,9 @@
 **Thoughts:** 2 more mini projects and then I'll do some real websites.
 
 **Link to work:**
-1. [Codepen](https://codepen.io/Hanapotski/full/OgvGdX/)
-2. [Wordpress](https://homemadecoder.wordpress.com/2017/07/03/day-29/)
+
+1.  [Codepen](https://codepen.io/Hanapotski/full/OgvGdX/)
+2.  [Wordpress](https://homemadecoder.wordpress.com/2017/07/03/day-29/)
 
 ### Day 28: July 1, 2017
 
@@ -663,7 +732,8 @@
 **Thoughts:** I'll catch up tomorrow.
 
 **Link to work:**
-1. [Wordpress](https://homemadecoder.wordpress.com/2017/07/02/day-28/)
+
+1.  [Wordpress](https://homemadecoder.wordpress.com/2017/07/02/day-28/)
 
 ### Day 27: June 30, 2017
 
@@ -672,8 +742,9 @@
 **Thoughts:** Can't believe I'm almost on my first month.
 
 **Link to work:**
-1. [Codepen](https://codepen.io/Hanapotski/full/NgYGpZ/)
-2. [Wordpress](https://homemadecoder.wordpress.com/2017/07/01/day-27/)
+
+1.  [Codepen](https://codepen.io/Hanapotski/full/NgYGpZ/)
+2.  [Wordpress](https://homemadecoder.wordpress.com/2017/07/01/day-27/)
 
 ### Day 26: June 29, 2017
 
@@ -682,8 +753,9 @@
 **Thoughts:** If only I can, I would go through all of the free courses on the internet to learn how to code/program!lol Wish I have more time than 24 hours.
 
 **Link to work:**
-1. [Codepen](https://codepen.io/Hanapotski/full/WOMXar/)
-2. [Wordpress](https://homemadecoder.wordpress.com/2017/06/30/day-26/)
+
+1.  [Codepen](https://codepen.io/Hanapotski/full/WOMXar/)
+2.  [Wordpress](https://homemadecoder.wordpress.com/2017/06/30/day-26/)
 
 ### Day 25: June 28, 2017
 
@@ -692,8 +764,9 @@
 **Thoughts:** I hope to learn a backend language soon which will enable me to keep the interactions of the users with my page.
 
 **Link to work:**
-1. [Codepen](https://codepen.io/Hanapotski/full/NgXLpv/)
-2. [Wordpress](https://homemadecoder.wordpress.com/2017/06/29/day-25/)
+
+1.  [Codepen](https://codepen.io/Hanapotski/full/NgXLpv/)
+2.  [Wordpress](https://homemadecoder.wordpress.com/2017/06/29/day-25/)
 
 ### Day 24: June 27, 2017
 
@@ -702,8 +775,9 @@
 **Thoughts:** Learning from mistakes is the best way to learn.
 
 **Link to work:**
-1. [Codepen](https://codepen.io/Hanapotski/full/LLOarq/)
-2. [Wordpress](https://homemadecoder.wordpress.com/2017/06/28/day-24)
+
+1.  [Codepen](https://codepen.io/Hanapotski/full/LLOarq/)
+2.  [Wordpress](https://homemadecoder.wordpress.com/2017/06/28/day-24)
 
 ### Day 23: June 26, 2017
 
@@ -712,8 +786,9 @@
 **Thoughts:** Feels good to make a new friend.
 
 **Link to work:**
-1. [Codepen](https://codepen.io/Hanapotski/full/zzPBXy/)
-2. [Wordpress](https://homemadecoder.wordpress.com/2017/06/27/day-23)
+
+1.  [Codepen](https://codepen.io/Hanapotski/full/zzPBXy/)
+2.  [Wordpress](https://homemadecoder.wordpress.com/2017/06/27/day-23)
 
 ### Day 22: June 25, 2017
 
@@ -722,8 +797,9 @@
 **Thoughts:** The algorithm challenges are not easy.
 
 **Link to work:**
-1. [Codepen](https://codepen.io/Hanapotski/full/Qgqqqb)
-2. [Wordpress](https://homemadecoder.wordpress.com/2017/06/26/day-22)
+
+1.  [Codepen](https://codepen.io/Hanapotski/full/Qgqqqb)
+2.  [Wordpress](https://homemadecoder.wordpress.com/2017/06/26/day-22)
 
 ### Day 21: June 24, 2017
 
@@ -732,8 +808,9 @@
 **Thoughts:** Solving problems are fun but gets frustrating when I can't figure it out.
 
 **Link to work:**
-1. [Codepen](https://codepen.io/Hanapotski/full/rwGVdz/)
-2. [Wordpress](https://homemadecoder.wordpress.com/2017/06/25/day-21/)
+
+1.  [Codepen](https://codepen.io/Hanapotski/full/rwGVdz/)
+2.  [Wordpress](https://homemadecoder.wordpress.com/2017/06/25/day-21/)
 
 ### Day 20: June 23, 2017
 
@@ -742,8 +819,9 @@
 **Thoughts:** I wish I'll find a JavaScript buddy soon.
 
 **Link to work:**
-1. [Codepen](https://codepen.io/Hanapotski/full/eREPZg/)
-2. [Wordpress](https://homemadecoder.wordpress.com/2017/06/24/day-20)
+
+1.  [Codepen](https://codepen.io/Hanapotski/full/eREPZg/)
+2.  [Wordpress](https://homemadecoder.wordpress.com/2017/06/24/day-20)
 
 ### Day 19: June 22, 2017
 
@@ -752,9 +830,10 @@
 **Thoughts:** It's frustrating when you can't figure out something.
 
 **Link to work:**
-1. [Codepen](https://codepen.io/Hanapotski/full/GEEERj/)
-2. [Codepen](https://codepen.io/Hanapotski/full/OgNRWQ/)
-3. [Wordpress](https://homemadecoder.wordpress.com/2017/06/23/day-19/)
+
+1.  [Codepen](https://codepen.io/Hanapotski/full/GEEERj/)
+2.  [Codepen](https://codepen.io/Hanapotski/full/OgNRWQ/)
+3.  [Wordpress](https://homemadecoder.wordpress.com/2017/06/23/day-19/)
 
 ### Day 18: June 21, 2017
 
@@ -762,7 +841,8 @@
 
 **Thoughts:** I want to fully understad JavaScript and be able to use it.
 **Link to work:**
-1. [Wordpress](https://homemadecoder.wordpress.com/2017/06/22/day-18)
+
+1.  [Wordpress](https://homemadecoder.wordpress.com/2017/06/22/day-18)
 
 ### Day 17: June 20, 2017
 
@@ -771,8 +851,9 @@
 **Thoughts:** I'm learning to love JavaScript.
 
 **Link to work:**
-1. [Codepen](https://codepen.io/Hanapotski/full/PjmQzP/)
-2. [Wordpress](https://homemadecoder.wordpress.com/2017/06/21/day-17)
+
+1.  [Codepen](https://codepen.io/Hanapotski/full/PjmQzP/)
+2.  [Wordpress](https://homemadecoder.wordpress.com/2017/06/21/day-17)
 
 ### Day 16: June 19, 2017
 
@@ -781,8 +862,9 @@
 **Thoughts:** I need more JavaScript practice.
 
 **Link to work:**
-1. [Codepen](https://codepen.io/Hanapotski/full/JJWwvZ/)
-2. [Wordpress](https://homemadecoder.wordpress.com/2017/06/19/day-16)
+
+1.  [Codepen](https://codepen.io/Hanapotski/full/JJWwvZ/)
+2.  [Wordpress](https://homemadecoder.wordpress.com/2017/06/19/day-16)
 
 ### Day 15: June 18, 2017
 
@@ -791,8 +873,9 @@
 **Thoughts:** I wish I can do more. If only I can have 48 hours a day.
 
 **Link to work:**
-1. [Codepen](https://codepen.io/Hanapotski/full/vZxBJK/)
-2. [Wordpress](https://homemadecoder.wordpress.com/2017/06/19/day-15)
+
+1.  [Codepen](https://codepen.io/Hanapotski/full/vZxBJK/)
+2.  [Wordpress](https://homemadecoder.wordpress.com/2017/06/19/day-15)
 
 ### Day 14: June 17, 2017
 
@@ -801,9 +884,10 @@
 **Thoughts:** I'm amazed how I managed to make 2 projects even though I started late.
 
 **Link to work:**
-1. [Codepen](https://codepen.io/Hanapotski/full/VWPBjM/)
-2. [Codepen](https://codepen.io/Hanapotski/full/owBPvM/)
-3. [Wordpress](https://homemadecoder.wordpress.com/2017/06/18/day-14)
+
+1.  [Codepen](https://codepen.io/Hanapotski/full/VWPBjM/)
+2.  [Codepen](https://codepen.io/Hanapotski/full/owBPvM/)
+3.  [Wordpress](https://homemadecoder.wordpress.com/2017/06/18/day-14)
 
 ### Day 13: June 16, 2017
 
@@ -812,8 +896,8 @@
 **Thoughts:** Need to start working out soon so I'll have more energy.
 
 **Link to work:**
-1. Project to follow
-2.[Wordpress](https://homemadecoder.wordpress.com/2017/06/17/day-13)
+
+1.  Project to follow 2.[Wordpress](https://homemadecoder.wordpress.com/2017/06/17/day-13)
 
 ### Day 12: June 15, 2017
 
@@ -822,8 +906,9 @@
 **Thoughts:** Overwhelmed(but still excited) with the stuffs I still need to learn.
 
 **Link to work:**
-1. [Codepen](https://codepen.io/Hanapotski/full/VWmyKJ/)
-2. [Wordpress](https://homemadecoder.wordpress.com/2017/06/16/day-12)
+
+1.  [Codepen](https://codepen.io/Hanapotski/full/VWmyKJ/)
+2.  [Wordpress](https://homemadecoder.wordpress.com/2017/06/16/day-12)
 
 ### Day 11: June 14, 2017
 
@@ -832,8 +917,9 @@
 **Thoughts:** I didn't think it would be this hard to make a secret message.
 
 **Link to work:**
-1. [Github](https://hanapotski.github.io/myprojects/project11/index.html)
-2. [Wordpress](https://homemadecoder.wordpress.com/2017/06/15/day-11/)
+
+1.  [Github](https://hanapotski.github.io/myprojects/project11/index.html)
+2.  [Wordpress](https://homemadecoder.wordpress.com/2017/06/15/day-11/)
 
 ### Day 10: June 13, 2017
 
@@ -842,8 +928,9 @@
 **Thoughts:** Time is faster here in the US than in the Philippines. Wish I have more than 24 hours (but that would be very tiring).
 
 **Link to work:**
-1. [Codepen](https://codepen.io/Hanapotski/full/BZzEKR/)
-2. [Wordpress](https://homemadecoder.wordpress.com/2017/06/13/day-10)
+
+1.  [Codepen](https://codepen.io/Hanapotski/full/BZzEKR/)
+2.  [Wordpress](https://homemadecoder.wordpress.com/2017/06/13/day-10)
 
 ### Day 9: June 12, 2017
 
@@ -852,8 +939,9 @@
 **Thoughts:** Wish I could do more JavaScript projects
 
 **Link to work:**
-1. [Gh-pages](https://hanapotski.github.io/myprojects/project9/ecard.html)
-2. [Wordpress](https://homemadecoder.wordpress.com/2017/06/13/day-9)
+
+1.  [Gh-pages](https://hanapotski.github.io/myprojects/project9/ecard.html)
+2.  [Wordpress](https://homemadecoder.wordpress.com/2017/06/13/day-9)
 
 ### Day 8: June 11, 2017
 
@@ -862,8 +950,9 @@
 **Thoughts:** Need to think of more projects
 
 **Link to work:**
-1. [Gh-pages](https://hanapotski.github.io/myprojects/project8/gifts.html)
-2. [Wordpress](https://homemadecoder.wordpress.com/2017/06/12/day-8/)
+
+1.  [Gh-pages](https://hanapotski.github.io/myprojects/project8/gifts.html)
+2.  [Wordpress](https://homemadecoder.wordpress.com/2017/06/12/day-8/)
 
 ### Day 7: June 10, 2017
 
@@ -872,8 +961,9 @@
 **Thoughts:** Needs to double time learning about javascript
 
 **Link to work:**
-1. [Codepen](https://codepen.io/Hanapotski/full/XgdNzg/)
-2. [Wordpress](https://homemadecoder.wordpress.com/2017/06/11/day-7/)
+
+1.  [Codepen](https://codepen.io/Hanapotski/full/XgdNzg/)
+2.  [Wordpress](https://homemadecoder.wordpress.com/2017/06/11/day-7/)
 
 ### Day 6: June 9, 2017
 
@@ -882,8 +972,9 @@
 **Thoughts:** I wish I know more JavaScript -.-
 
 **Link to work:**
-1. [Codepen](https://codepen.io/Hanapotski/full/gRPEVx/)
-2. [Wordpress](https://homemadecoder.wordpress.com/2017/06/10/day-6/)
+
+1.  [Codepen](https://codepen.io/Hanapotski/full/gRPEVx/)
+2.  [Wordpress](https://homemadecoder.wordpress.com/2017/06/10/day-6/)
 
 ### Day 5: June 8, 2017
 
@@ -892,8 +983,9 @@
 **Thoughts:** Having a hard time finding solutions to what I wanted to do.
 
 **Link to work:**
-1. [Codepen](https://codepen.io/Hanapotski/full/NgxGba/)
-2. [Wordpress](https://homemadecoder.wordpress.com/2017/06/09/day-5/)
+
+1.  [Codepen](https://codepen.io/Hanapotski/full/NgxGba/)
+2.  [Wordpress](https://homemadecoder.wordpress.com/2017/06/09/day-5/)
 
 ### Day 4: June 7, 2017
 
@@ -902,8 +994,9 @@
 **Thoughts:** I'm still wondering how to format a write-protected flash drive.
 
 **Link to work:**
-1. [Codepen](https://codepen.io/Hanapotski/full/weKryW/)
-2. [Wordpress](https://homemadecoder.wordpress.com/2017/06/08/day-3/)
+
+1.  [Codepen](https://codepen.io/Hanapotski/full/weKryW/)
+2.  [Wordpress](https://homemadecoder.wordpress.com/2017/06/08/day-3/)
 
 ### Day 3: June 6, 2017
 
@@ -912,8 +1005,9 @@
 **Thoughts:** I wish this time, JavaScript will be good to me.
 
 **Link to work:**
-1. [Codepen](https://codepen.io/Hanapotski/full/GEJQXq/)
-2. [Wordpress](https://homemadecoder.wordpress.com/2017/06/07/day-3//)
+
+1.  [Codepen](https://codepen.io/Hanapotski/full/GEJQXq/)
+2.  [Wordpress](https://homemadecoder.wordpress.com/2017/06/07/day-3//)
 
 ### Day 2: June 5, 2017
 
@@ -922,8 +1016,9 @@
 **Thoughts:** Wonderwoman is awesome.(we saw the movie this morning. she's so cool xD)
 
 **Link to work:**
-1. [My Projects' Homepage](https://hanapotski.github.io/myprojects/)
-2. [Wordpress](https://homemadecoder.wordpress.com/2017/06/06/day-2/)
+
+1.  [My Projects' Homepage](https://homemadecoder.github.io/myprojects/)
+2.  [Wordpress](https://homemadecoder.wordpress.com/2017/06/06/day-2/)
 
 ### Day 1: June 4, 2017
 
@@ -932,8 +1027,9 @@
 **Thoughts:** Someday I'll make my own portfolio website without using a template.
 
 **Link to work:**
-1. [HannahZulueta](https://hanapotski.github.io/hannahzulueta/)
-2. [Wordpress](https://homemadecoder.wordpress.com/2017/06/06/day-1/)
+
+1.  [HannahZulueta](https://homemadecoder.github.io/hannahz/)
+2.  [Wordpress](https://homemadecoder.wordpress.com/2017/06/06/day-1/)
 
 ### Day 0: June 3, 2017
 
@@ -942,12 +1038,14 @@
 **Thoughts:** I'll use [Jennifer Dewalt's projects](https://jenniferdewalt.com/) for inspiration. But for my main project, I will make my own portfolio website.
 
 **Link to work:**
-1. [Github](https://github.com/hanapotski/100-days-of-code)
-2. [Myprojects](https://github.com/hanapotski/myprojects)
-3. [Twitter](https://twitter.com/homemadecoder)
-4. [Instagram](https://www.instagram.com/homemadecoder/)
-5. [Wordpress](https://homemadecoder.wordpress.com/)
-6. [Codepen](https://codepen.io/Hanapotski)
+
+1.  [Github](https://github.com/homemadecoder/100-days-of-code)
+2.  [Myprojects](https://github.com/homemadecoder/myprojects)
+3.  [Twitter](https://twitter.com/homemadecoder)
+4.  [Instagram](https://www.instagram.com/homemadecoder/)
+5.  [Wordpress](https://homemadecoder.wordpress.com/)
+6.  [Codepen](https://codepen.io/Hanapotski)
 
 # 100 Days Of Code - Log
-[My Projects' Homepage](https://hanapotski.github.io/myprojects/)
+
+[My Projects' Homepage](https://homemadecoder.github.io/myprojects/)
